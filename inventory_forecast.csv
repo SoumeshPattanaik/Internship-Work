@@ -1,0 +1,1101 @@
+product id,product_Name,types_of_product, product_Brand,unit_price,quantity,price,tax,total_price,order _date,delivery_date,product_availability,product_target_availability
+Au001,Fruti,Beverage,Fruti,10,0.45 litres,300,200,500,21-05-2021,22-05-2021,0.55 litres,10 litres
+Au002,Thumps Up,Beverage,Coca Cola,74,5 litres,100,80,180,25-04-2021,10-10-2021,21 litres,49 litres
+Au003,Coca-Cola,Beverage,Coca Cola,15,10 litres,610,153,763,09-02-2021,22-11-2021,21 litres,41 litres
+Au004,Sprite,Beverage,Coca Cola,25,7 litres,694,218,912,01-04-2021,18-09-2021,21 litres,43 litres
+Au005,Sprite,Beverage,Coca Cola,49,7 litres,788,158,946,19-04-2021,07-10-2021,10 litres,42 litres
+Au006,Coca-Cola,Beverage,Coca Cola,16,6 litres,953,138,1091,06-03-2021,12-07-2021,26 litres,41 litres
+Au007,Honest Tea,Beverage,Coca Cola,41,5 litres,927,363,1290,25-03-2021,03-08-2021,11 litres,44 litres
+Au008,Lays,Snacks,Pepsi,30,5 kg,825,166,991,01-06-2021,24-10-2021,10 kg,15 kg
+Au009,Bhel Puri,Snacks,Haldiram,15,10 kg,851,212,1063,19-02-2021,28-10-2021,30 kg,65 kg
+Au010,Tasty Nuts,Snacks,Haldiram,31,5 kg,763,154,917,26-03-2021,06-07-2021,40 kg,87 kg
+Au011,Bhujia Sev,Snacks,Haldiram,42,7 kg,777,330,1107,06-02-2021,12-09-2021,31 kg,81 kg
+Au012,Aloo Bhujia,Snacks,Haldiram,22,7 kg,826,318,1144,20-05-2021,29-08-2021,38 kg,52 kg
+Au013,Aloo Bhujia,Snacks,Haldiram,39,6 kg,634,223,857,13-02-2021,11-09-2021,36 kg,68 kg
+Au014,Bhujia Sev,Snacks,Haldiram,50,12 kg,590,282,872,14-03-2021,28-06-2021,35 kg,80 kg
+Au015,Aloo Bhujia,Snacks,Haldiram,31,7 kg,567,225,792,21-03-2021,24-08-2021,40 kg,83 kg
+Au016,Bhujia Sev,Snacks,Haldiram,27,9 kg,663,152,815,23-02-2021,06-11-2021,37 kg,87 kg
+Au017,Aloo Bhujia,Snacks,Haldiram,30,10 kg,768,256,1024,08-03-2021,02-08-2021,37 kg,56 kg
+Au018,Tasty Nuts,Snacks,Haldiram,39,6 kg,570,190,760,14-01-2021,11-09-2021,34 kg,74 kg
+Au019,Tasty Nuts,Snacks,Haldiram,30,9 kg,834,271,1105,22-04-2021,11-08-2021,30 kg,77 kg
+Au020,Bhel Puri,Snacks,Haldiram,33,5 kg,785,367,1152,17-01-2021,04-11-2021,30 kg,57 kg
+Au021,Bhujia Sev,Snacks,Haldiram,26,9 kg,573,272,845,19-01-2021,16-09-2021,35 kg,93 kg
+Au022,Aloo Bhujia,Snacks,Haldiram,26,7 kg,729,234,963,15-03-2021,12-10-2021,35 kg,53 kg
+Au023,Aloo Bhujia,Snacks,Haldiram,36,8 kg,957,310,1267,18-05-2021,26-09-2021,36 kg,92 kg
+Au024,Bhujia Sev,Snacks,Haldiram,39,11 kg,903,100,1003,12-04-2021,13-07-2021,33 kg,78 kg
+Au025,Tasty Nuts,Snacks,Haldiram,39,7 kg,938,187,1125,30-05-2021,19-07-2021,39 kg,97 kg
+Au026,Bhel Puri,Snacks,Haldiram,45,11 kg,773,317,1090,12-05-2021,06-11-2021,35 kg,56 kg
+Au027,Tasty Nuts,Snacks,Haldiram,21,9 kg,631,321,952,30-05-2021,08-07-2021,31 kg,65 kg
+Au028,Aloo Bhujia,Snacks,Haldiram,20,10 kg,508,371,879,27-03-2021,25-11-2021,34 kg,91 kg
+Au029,Tasty Nuts,Snacks,Haldiram,15,7 kg,692,145,837,10-02-2021,26-06-2021,32 kg,100 kg
+Au030,Bhujia Sev,Beverage,Coca Cola,23,14 litres,527,129,656,04-04-2021,14-08-2021,46 litres,58 litres
+Au031,Tasty Nuts,Beverage,Coca Cola,47,12 litres,737,146,883,06-05-2021,28-06-2021,50 litres,51 litres
+Au032,Tasty Nuts,Beverage,Coca Cola,32,6 litres,662,197,859,14-01-2021,06-09-2021,49 litres,59 litres
+Au033,Tasty Nuts,Beverage,Coca Cola,38,6 litres,507,224,731,14-05-2021,22-08-2021,44 litres,78 litres
+Au034,Tasty Nuts,Beverage,Coca Cola,12,5 litres,659,217,876,27-05-2021,20-09-2021,33 litres,52 litres
+Au035,Aloo Bhujia,Beverage,Coca Cola,15,7 litres,708,292,1000,29-01-2021,25-07-2021,45 litres,80 litres
+Au036,Bhujia Sev,Beverage,Coca Cola,28,14 litres,592,164,756,03-03-2021,30-09-2021,20 litres,40 litres
+Au037,Uncle Chips,Snacks,Uncle Chips,31,11 kg,931,107,1038,04-05-2021,19-10-2021,45 kg,67 kg
+Au038,Uncle Chips(spicy),Snacks,Uncle Chips,33,11 kg,723,174,897,05-05-2021,27-10-2021,42 kg,86 kg
+Au039,Uncle Chips,Snacks,Uncle Chips,27,11 kg,750,219,969,21-04-2021,10-07-2021,49 kg,53 kg
+Au040,Uncle Chips(spicy),Snacks,Uncle Chips,13,14 kg,707,146,853,17-03-2021,23-06-2021,43 kg,89 kg
+Au041,Uncle Chips(spicy),Snacks,Uncle Chips,50,14 kg,793,126,919,10-02-2021,13-08-2021,50 kg,77 kg
+Au042,Uncle Chips,Snacks,Uncle Chips,23,13 kg,596,353,949,29-04-2021,09-06-2021,49 kg,66 kg
+Au043,Uncle Chips(spicy),Snacks,Uncle Chips,32,15 kg,746,242,988,22-02-2021,11-09-2021,50 kg,67 kg
+Au044,Uncle Chips,Snacks,Uncle Chips,25,14 kg,858,207,1065,11-01-2021,01-11-2021,40 kg,60 kg
+Au045,Uncle Chips(spicy),Snacks,Uncle Chips,38,10 kg,542,294,836,17-03-2021,10-09-2021,42 kg,77 kg
+Au046,Uncle Chips,Snacks,Uncle Chips,26,14 kg,744,318,1062,13-04-2021,18-08-2021,50 kg,94 kg
+Au047,Uncle Chips,Snacks,Uncle Chips,26,15 kg,600,169,769,22-03-2021,20-11-2021,48 kg,54 kg
+Au048,Uncle Chips,Snacks,Uncle Chips,37,10 kg,678,150,828,16-05-2021,03-11-2021,49 kg,51 kg
+Au049,Uncle Chips(spicy),Snacks,Uncle Chips,14,11 kg,651,215,866,01-03-2021,11-09-2021,49 kg,94 kg
+Au050,Uncle Chips(spicy),Snacks,Uncle Chips,39,12 kg,565,310,875,03-02-2021,05-07-2021,40 kg,92 kg
+Au051,Uncle Chips,Snacks,Uncle Chips,39,11 kg,930,307,1237,09-02-2021,07-07-2021,46 kg,52 kg
+Au052,Uncle Chips,Snacks,Uncle Chips,46,10 kg,720,134,854,06-04-2021,28-10-2021,45 kg,99 kg
+Au053,Uncle Chips,Snacks,Uncle Chips,42,10 kg,558,140,698,09-05-2021,25-11-2021,42 kg,66 kg
+Au054,Uncle Chips(spicy),Snacks,Uncle Chips,49,10 kg,669,195,864,28-03-2021,23-08-2021,45 kg,99 kg
+Au055,Uncle Chips(spicy),Snacks,Uncle Chips,22,13 kg,623,336,959,01-02-2021,24-09-2021,45 kg,95 kg
+Au056,Uncle Chips,Snacks,Uncle Chips,47,15 kg,991,308,1299,21-05-2021,14-11-2021,44 kg,65 kg
+Au057,Uncle Chips(spicy),Snacks,Uncle Chips,18,12 kg,786,121,907,26-03-2021,30-07-2021,50 kg,90 kg
+Au058,Bhujia Sev,Snacks,Haldiram,35,11 kg,973,354,1327,23-04-2021,29-10-2021,44 kg,52 kg
+Au059,Tasty Nuts,Snacks,Haldiram,33,14 kg,776,168,944,29-04-2021,08-09-2021,45 kg,64 kg
+Au060,Aloo Bhujia,Snacks,Haldiram,20,11 kg,846,319,1165,22-01-2021,17-07-2021,47 kg,76 kg
+Au061,Bhujia Sev,Snacks,Haldiram,28,15 kg,817,368,1185,27-03-2021,03-10-2021,43 kg,100 kg
+Au062,Aloo Bhujia,Snacks,Haldiram,29,11 kg,752,113,865,19-01-2021,15-10-2021,41 kg,93 kg
+Au063,Aloo Bhujia,Snacks,Haldiram,26,11 kg,951,393,1344,25-02-2021,09-09-2021,44 kg,72 kg
+Au064,Uncle Chips,Snacks,Uncle Chips,38,15 kg,986,299,1285,21-02-2021,29-08-2021,30 kg,50 kg
+Au065,Soda Stream,Beverage,Pepsi,50,10 litres,868,134,1002,06-04-2021,05-10-2021,43 litres,49 litres
+Au066,Tropicana,Beverage,Pepsi,13,10 litres,919,133,1052,24-03-2021,08-07-2021,36 litres,50 litres
+Au067,Tropicana,Beverage,Pepsi,36,11 litres,878,144,1022,02-05-2021,17-09-2021,40 litres,50 litres
+Au068,Pepsi,Beverage,Pepsi,36,13 litres,951,320,1271,12-01-2021,22-07-2021,40 litres,54 litres
+Au069,Tropicana,Beverage,Pepsi,24,13 litres,738,255,993,18-01-2021,02-09-2021,29 litres,58 litres
+Au070,Soda Stream,Beverage,Pepsi,25,15 litres,665,162,827,26-01-2021,19-10-2021,35 litres,60 litres
+Au071,Gatorade,Beverage,Pepsi,49,12 litres,514,374,888,12-02-2021,05-06-2021,44 litres,45 litres
+Au072,Pepsi,Beverage,Pepsi,44,15 litres,980,326,1306,27-03-2021,01-08-2021,42 litres,52 litres
+Au073,Uncle Chips(spicy),Snacks,Uncle Chips,35,9 kg,877,272,1149,10-03-2021,14-07-2021,10 kg,25 kg
+Au074,Quaker Oats,Snacks,Pepsi,23,5 kg,513,254,767,05-05-2021,17-07-2021,15 kg,62 kg
+Au075,Walker,Snacks,Pepsi,21,8 kg,930,135,1065,25-02-2021,03-11-2021,22 kg,70 kg
+Au076,Quaker Oats,Snacks,Pepsi,45,11 kg,595,172,767,17-05-2021,06-08-2021,22 kg,75 kg
+Au077,Gamesa,Snacks,Pepsi,36,10 kg,763,307,1070,27-03-2021,23-07-2021,24 kg,79 kg
+Au078,Walker,Snacks,Pepsi,32,8 kg,820,112,932,23-04-2021,26-10-2021,17 kg,67 kg
+Au079,Quaker Oats,Snacks,Pepsi,50,12 kg,525,152,677,12-01-2021,19-11-2021,25 kg,62 kg
+Au080,Quaker Oats,Snacks,Pepsi,44,12 kg,541,106,647,07-03-2021,24-09-2021,21 kg,60 kg
+Au081,Quaker Oats,Snacks,Pepsi,18,12 kg,569,164,733,05-02-2021,17-11-2021,20 kg,51 kg
+Au082,Gamesa,Snacks,Pepsi,28,12 kg,941,273,1214,04-03-2021,21-10-2021,22 kg,72 kg
+Au083,Quaker Oats,Snacks,Pepsi,48,12 kg,719,380,1099,26-04-2021,20-11-2021,16 kg,77 kg
+Au084,Gamesa,Snacks,Pepsi,35,10 kg,721,205,926,18-04-2021,25-07-2021,25 kg,72 kg
+Au085,Walker,Snacks,Pepsi,42,10 kg,569,230,799,14-02-2021,28-08-2021,23 kg,79 kg
+Au086,Quaker Oats,Snacks,Pepsi,12,6 kg,945,317,1262,31-01-2021,11-08-2021,21 kg,76 kg
+Au087,Walker,Snacks,Pepsi,46,13 kg,738,214,952,18-05-2021,04-10-2021,25 kg,54 kg
+Au088,Walker,Snacks,Pepsi,23,11 kg,674,264,938,31-01-2021,24-10-2021,30 kg,68 kg
+Au089,Quaker Oats,Snacks,Pepsi,12,8 kg,504,129,633,14-04-2021,17-09-2021,27 kg,73 kg
+Au090,Walker,Snacks,Pepsi,49,9 kg,838,351,1189,20-01-2021,30-10-2021,24 kg,52 kg
+Au091,Walker,Snacks,Pepsi,47,9 kg,700,255,955,17-02-2021,15-10-2021,23 kg,73 kg
+Au092,Gamesa,Snacks,Pepsi,31,14 kg,520,379,899,03-03-2021,18-06-2021,20 kg,58 kg
+Au093,Walker,Snacks,Pepsi,38,12 kg,658,219,877,18-02-2021,21-09-2021,15 kg,60 kg
+Au094,Gamesa,Snacks,Pepsi,23,8 kg,897,247,1144,20-05-2021,07-06-2021,20 kg,65 kg
+Au095,Walker,Snacks,Pepsi,43,14 kg,827,145,972,20-05-2021,03-09-2021,20 kg,63 kg
+Au096,Walker,Snacks,Pepsi,41,14 kg,875,204,1079,26-01-2021,22-11-2021,23 kg,58 kg
+Au097,Gamesa,Snacks,Pepsi,17,9 kg,971,214,1185,23-05-2021,06-11-2021,30 kg,63 kg
+Au098,Quaker Oats,Snacks,Pepsi,41,9 kg,829,383,1212,04-01-2021,06-10-2021,27 kg,70 kg
+Au099,Walker,Snacks,Pepsi,25,10 kg,905,165,1070,12-04-2021,29-08-2021,18 kg,78 kg
+Au100,Quaker Oats,Snacks,Pepsi,12,5 kg,972,157,1129,12-05-2021,27-07-2021,18 kg,56 kg
+Au101,Lite Horlicks,Health Supplement,HUL,47,7 kg,978,103,1081,06-02-2021,15-11-2021,17 kg,68 kg
+Au102,Mother's Horlicks,Health Supplement,HUL,10,9 kg,991,334,1325,03-05-2021,22-06-2021,20 kg,65 kg
+Au103,Horlicks,Health Supplement,HUL,10,11 kg,647,111,758,17-02-2021,20-08-2021,16 kg,53 kg
+Au104,Mother's Horlicks,Health Supplement,HUL,46,10 kg,990,134,1124,16-03-2021,18-08-2021,17 kg,74 kg
+Au105,Horlicks,Health Supplement,HUL,32,14 kg,668,230,898,23-05-2021,13-10-2021,21 kg,74 kg
+Au106,Mother's Horlicks,Health Supplement,HUL,34,11 kg,776,223,999,12-05-2021,15-09-2021,20 kg,66 kg
+Au107,Lite Horlicks,Health Supplement,HUL,30,10 kg,548,257,805,26-01-2021,17-08-2021,21 kg,67 kg
+Au108,Women's Horlicks,Health Supplement,HUL,10,7 kg,764,254,1018,11-01-2021,29-09-2021,25 kg,53 kg
+Au109,Horlicks,Health Supplement,HUL,29,13 kg,882,278,1160,25-01-2021,04-10-2021,15 kg,59 kg
+Au110,Mother's Horlicks,Health Supplement,HUL,37,9 kg,901,184,1085,30-03-2021,18-10-2021,28 kg,55 kg
+Au111,Lite Horlicks,Health Supplement,HUL,50,6 kg,541,321,862,17-01-2021,01-10-2021,15 kg,79 kg
+Au112,Women's Horlicks,Health Supplement,HUL,47,15 kg,772,217,989,10-04-2021,07-10-2021,17 kg,74 kg
+Au113,Women's Horlicks,Health Supplement,HUL,26,9 kg,781,399,1180,05-05-2021,20-10-2021,25 kg,80 kg
+Au114,Mother's Horlicks,Health Supplement,HUL,20,6 kg,825,150,975,04-02-2021,06-08-2021,19 kg,58 kg
+Au115,Women's Horlicks,Health Supplement,HUL,11,6 kg,612,262,874,14-05-2021,01-07-2021,30 kg,63 kg
+Au116,Women's Horlicks,Health Supplement,HUL,40,13 kg,657,239,896,01-04-2021,30-08-2021,30 kg,64 kg
+Au117,Mother's Horlicks,Health Supplement,HUL,17,7 kg,698,213,911,16-04-2021,06-10-2021,28 kg,53 kg
+Au118,Lite Horlicks,Health Supplement,HUL,49,10 kg,520,186,706,29-03-2021,14-08-2021,17 kg,74 kg
+Au119,Lite Horlicks,Health Supplement,HUL,46,14 kg,887,185,1072,31-03-2021,15-11-2021,26 kg,54 kg
+Au120,Women's Horlicks,Health Supplement,HUL,48,10 kg,915,263,1178,31-05-2021,26-08-2021,26 kg,57 kg
+Au121,Lite Horlicks,Health Supplement,HUL,48,11 kg,695,119,814,27-05-2021,03-11-2021,22 kg,52 kg
+Au122,Women's Horlicks,Health Supplement,HUL,24,5 kg,574,293,867,04-04-2021,10-07-2021,18 kg,51 kg
+Au123,Lite Horlicks,Health Supplement,HUL,48,9 kg,509,236,745,23-02-2021,25-10-2021,22 kg,59 kg
+Au124,Women's Horlicks,Health Supplement,HUL,10,7 kg,957,317,1274,19-04-2021,24-07-2021,19 kg,73 kg
+Au125,Mother's Horlicks,Health Supplement,HUL,50,9 kg,508,262,770,28-03-2021,11-06-2021,29 kg,75 kg
+Au126,Lite Horlicks,Health Supplement,HUL,46,7 kg,991,368,1359,04-02-2021,02-11-2021,19 kg,71 kg
+Au127,Women's Horlicks,Health Supplement,HUL,36,11 kg,942,379,1321,19-04-2021,03-07-2021,18 kg,68 kg
+Au128,Lite Horlicks,Health Supplement,HUL,26,13 kg,639,203,842,05-04-2021,25-07-2021,29 kg,63 kg
+Au129,Mother's Horlicks,Health Supplement,HUL,24,5 kg,847,136,983,07-02-2021,17-11-2021,28 kg,57 kg
+Au130,Lite Horlicks,Health Supplement,HUL,47,7 kg,623,237,860,13-04-2021,28-10-2021,26 kg,68 kg
+Au131,Horlicks,Health Supplement,HUL,31,7 kg,886,332,1218,13-04-2021,21-06-2021,28 kg,60 kg
+Au132,Horlicks,Health Supplement,HUL,30,9 kg,615,367,982,28-02-2021,08-11-2021,29 kg,50 kg
+Au133,Horlicks,Health Supplement,HUL,46,10 kg,921,259,1180,25-04-2021,13-06-2021,26 kg,80 kg
+Au134,Women's Horlicks,Health Supplement,HUL,25,8 kg,735,395,1130,10-03-2021,10-07-2021,23 kg,64 kg
+Au135,Horlicks,Health Supplement,HUL,50,13 kg,774,217,991,18-04-2021,18-07-2021,25 kg,79 kg
+Au136,Women's Horlicks,Health Supplement,HUL,32,12 kg,977,361,1338,27-05-2021,17-09-2021,28 kg,78 kg
+Au137,Horlicks,Health Supplement,HUL,38,6 kg,826,343,1169,12-03-2021,24-06-2021,22 kg,51 kg
+Au138,Lite Horlicks,Health Supplement,HUL,24,15 kg,785,163,948,13-05-2021,27-09-2021,16 kg,56 kg
+Au139,Mother's Horlicks,Health Supplement,HUL,27,14 kg,823,358,1181,13-04-2021,28-09-2021,22 kg,60 kg
+Au140,Horlicks,Health Supplement,HUL,35,7 kg,854,275,1129,16-05-2021,13-06-2021,15 kg,78 kg
+Au141,Mother's Horlicks,Health Supplement,HUL,15,10 kg,856,186,1042,16-01-2021,22-07-2021,28 kg,76 kg
+Au142,Aloe Vera Juice,Health Supplement,Patanjali,28,9 litres,822,140,962,15-04-2021,29-06-2021,31 litres,53 litres
+Au143,Amla Juice,Health Supplement,Patanjali,10,11 litres,792,329,1121,06-04-2021,24-08-2021,38 litres,54 litres
+Au144,Gilloy Juice,Health Supplement,Patanjali,47,6 litres,850,102,952,16-02-2021,07-10-2021,30 litres,50 litres
+Au145,Tulsi Juice,Health Supplement,Patanjali,15,14 litres,534,315,849,19-03-2021,02-09-2021,38 litres,51 litres
+Au146,Gilloy Juice,Health Supplement,Patanjali,28,8 litres,504,166,670,23-04-2021,08-06-2021,33 litres,51 litres
+Au147,Aloe Vera Juice,Health Supplement,Patanjali,49,5 litres,556,239,795,13-04-2021,22-07-2021,39 litres,53 litres
+Au148,Tulsi Juice,Health Supplement,Patanjali,45,9 litres,608,180,788,29-01-2021,05-11-2021,38 litres,53 litres
+Au149,Amla Juice,Health Supplement,Patanjali,36,15 litres,740,278,1018,06-02-2021,30-11-2021,39 litres,54 litres
+Au150,Mango Panna,Health Supplement,Patanjali,36,15 litres,665,171,836,12-03-2021,17-11-2021,34 litres,54 litres
+Au151,Mango Panna,Health Supplement,Patanjali,17,9 litres,634,277,911,09-04-2021,02-10-2021,38 litres,54 litres
+Au152,Aloe Vera Juice,Health Supplement,Patanjali,31,7 litres,865,292,1157,12-02-2021,23-10-2021,39 litres,51 litres
+Au153,Aloe Vera Juice,Health Supplement,Patanjali,46,15 litres,867,139,1006,19-05-2021,21-11-2021,38 litres,51 litres
+Au154,Gilloy Juice,Health Supplement,Patanjali,13,10 litres,658,394,1052,01-05-2021,14-10-2021,35 litres,52 litres
+Au155,Mango Panna,Health Supplement,Patanjali,46,10 litres,703,132,835,15-01-2021,15-09-2021,34 litres,50 litres
+Au156,Gilloy Juice,Health Supplement,Patanjali,40,7 litres,630,321,951,09-03-2021,26-07-2021,34 litres,55 litres
+Au157,Aloe Vera Juice,Health Supplement,Patanjali,28,11 litres,761,399,1160,17-01-2021,12-10-2021,39 litres,53 litres
+Au158,Aloe Vera Juice,Health Supplement,Patanjali,46,9 litres,841,116,957,19-05-2021,31-08-2021,32 litres,51 litres
+Au159,Sprite,Beverage,Coca Cola,24,10 litres,727,241,968,07-01-2021,22-06-2021,30 litres,50 litres
+Au160,Quaker Oats,Snacks,Pepsi,36,8 kg,890,101,991,21-02-2021,17-08-2021,22 kg,37 kg
+Au161,Walker,Snacks,Pepsi,19,10 kg,840,153,993,05-05-2021,12-08-2021,25 kg,37 kg
+Au162,Walker,Snacks,Pepsi,36,14 kg,560,187,747,08-03-2021,19-08-2021,26 kg,38 kg
+Au163,Walker,Snacks,Pepsi,29,7 kg,613,250,863,04-05-2021,12-07-2021,26 kg,39 kg
+Au164,Quaker Oats,Snacks,Pepsi,30,12 kg,763,229,992,17-05-2021,13-09-2021,25 kg,49 kg
+Au165,Walker,Snacks,Pepsi,16,6 kg,508,125,633,04-05-2021,14-11-2021,26 kg,49 kg
+Au166,Walker,Snacks,Pepsi,27,12 kg,697,343,1040,21-02-2021,11-09-2021,20 kg,41 kg
+Au167,Walker,Snacks,Pepsi,29,7 kg,533,210,743,10-01-2021,29-08-2021,30 kg,42 kg
+Au168,Gamesa,Snacks,Pepsi,32,7 kg,629,382,1011,13-05-2021,23-07-2021,24 kg,37 kg
+Au169,Walker,Snacks,Pepsi,10,12 kg,586,103,689,12-01-2021,30-06-2021,27 kg,45 kg
+Au170,Walker,Snacks,Pepsi,34,12 Kg,966,249,1215,06-04-2021,12-10-2021,30 kg,40 Kg
+Au171,Gilloy Juice,Health Supplement,Patanjali,46,10 litres,926,144,1070,13-04-2021,12-11-2021,22 litres,43 litres
+Au172,Aloe Vera Juice,Health Supplement,Patanjali,30,9 litres,551,236,787,25-02-2021,09-11-2021,26 litres,45 litres
+Au173,Amla Juice,Health Supplement,Patanjali,23,14 litres,688,277,965,07-03-2021,18-08-2021,22 litres,33 litres
+Au174,Mango Panna,Health Supplement,Patanjali,41,10 litres,538,100,638,21-02-2021,08-06-2021,21 litres,44 litres
+Au175,Tulsi Juice,Health Supplement,Patanjali,34,10 litres,807,115,922,07-03-2021,16-06-2021,22 litres,42 litres
+Au176,Amla Juice,Health Supplement,Patanjali,13,8 litres,977,344,1321,19-04-2021,03-10-2021,28 litres,39 litres
+Au177,Aloe Vera Juice,Health Supplement,Patanjali,40,14 litres,792,169,961,28-03-2021,18-11-2021,22 litres,43 litres
+Au178,Aloe Vera Juice,Health Supplement,Patanjali,11,14 litres,958,293,1251,08-03-2021,13-08-2021,30 litres,35 litres
+Au179,Mango Panna,Health Supplement,Patanjali,35,12 litres,666,294,960,17-01-2021,03-09-2021,26 litres,45 litres
+Au180,Aloe Vera Juice,Health Supplement,Patanjali,32,15 litres,780,147,927,24-01-2021,23-11-2021,25 litres,45 litres
+Au181,Uncle Chips(spicy),Snacks,Uncle Chips,27,14 kg,679,109,788,06-04-2021,03-09-2021,26 kg,44 kg
+Au182,Uncle Chips,Snacks,Uncle Chips,44,8 kg,988,271,1259,11-03-2021,09-10-2021,33 kg,53 kg
+Au183,Uncle Chips(spicy),Snacks,Uncle Chips,30,15 kg,836,273,1109,06-04-2021,25-11-2021,20 kg,60 kg
+Au184,Uncle Chips(spicy),Snacks,Uncle Chips,45,15 kg,839,294,1133,05-01-2021,16-06-2021,27 kg,45 kg
+Au185,Uncle Chips,Snacks,Uncle Chips,22,9 kg,738,262,1000,15-04-2021,30-11-2021,34 kg,41 kg
+Au186,Uncle Chips,Snacks,Uncle Chips,13,13 kg,919,355,1274,13-05-2021,20-10-2021,20 kg,40 kg
+Au187,Uncle Chips(spicy),Snacks,Uncle Chips,13,14 kg,527,119,646,18-04-2021,04-07-2021,26 kg,44 kg
+Au188,Uncle Chips(spicy),Snacks,Uncle Chips,33,5 kg,714,104,818,20-05-2021,23-10-2021,28 kg,47 kg
+Au189,Uncle Chips(spicy),Snacks,Uncle Chips,36,8 kg,790,389,1179,21-04-2021,01-10-2021,32 kg,60 kg
+Au190,Uncle Chips,Snacks,Uncle Chips,35,9 kg,617,229,846,21-05-2021,24-10-2021,28 kg,53 kg
+Au191,Uncle Chips(spicy),Snacks,Uncle Chips,11,8 kg,938,290,1228,07-04-2021,07-06-2021,32 kg,46 kg
+Au192,Uncle Chips(spicy),Snacks,Uncle Chips,28,8 kg,961,279,1240,02-03-2021,30-11-2021,21 kg,44 kg
+Au193,Uncle Chips,Snacks,Uncle Chips,17,9 kg,642,264,906,01-06-2021,11-06-2021,21 kg,53 kg
+Au194,Uncle Chips,Snacks,Uncle Chips,12,6 kg,940,111,1051,09-04-2021,20-06-2021,32 kg,59 kg
+Au195,Uncle Chips(spicy),Snacks,Uncle Chips,31,11 kg,500,136,636,13-03-2021,11-07-2021,30 kg,57 kg
+Au196,Uncle Chips(spicy),Snacks,Uncle Chips,32,10 kg,592,222,814,04-03-2021,13-06-2021,23 kg,55 kg
+Au197,Uncle Chips(spicy),Snacks,Uncle Chips,20,8 kg,692,188,880,20-05-2021,08-10-2021,30 kg,41 kg
+Au198,Uncle Chips(spicy),Snacks,Uncle Chips,22,7 kg,565,272,837,19-03-2021,26-09-2021,25 kg,56 kg
+Au199,Uncle Chips,Snacks,Uncle Chips,46,9 kg,786,221,1007,19-02-2021,09-06-2021,33 kg,40 kg
+Au200,Uncle Chips,Snacks,Uncle Chips,30,15 kg,578,331,909,06-04-2021,28-06-2021,23 kg,42 kg
+Au201,Uncle Chips(spicy),Snacks,Uncle Chips,10,6 kg,560,128,688,28-03-2021,11-10-2021,31 kg,48 kg
+Au202,Lays-IMM,Snacks,Pepsi,13,5 kg,530,209,739,20-01-2021,23-10-2021,24 kg,44 kg
+Au203,Lays-IMM,Snacks,Pepsi,30,15 kg,931,233,1164,25-02-2021,05-07-2021,28 kg,51 kg
+Au204,Lays-ASCO,Snacks,Pepsi,14,15 kg,914,332,1246,25-03-2021,25-10-2021,21 kg,48 kg
+Au205,Lays-IMM,Snacks,Pepsi,15,12 kg,1000,129,1129,23-02-2021,05-06-2021,29 kg,54 kg
+Au206,Lays,Snacks,Pepsi,37,5 kg,806,208,1014,10-03-2021,18-11-2021,32 kg,46 kg
+Au207,Lays-IMM,Snacks,Pepsi,21,8 kg,743,160,903,01-02-2021,06-08-2021,21 kg,42 kg
+Au208,Lays,Snacks,Pepsi,27,13 kg,809,343,1152,22-03-2021,26-06-2021,26 kg,52 kg
+Au209,Lays,Snacks,Pepsi,23,5 kg,572,107,679,25-03-2021,29-08-2021,25 kg,60 kg
+Au210,Lays,Snacks,Pepsi,21,11 kg,527,231,758,19-02-2021,03-11-2021,34 kg,41 kg
+Au211,Lays,Snacks,Pepsi,16,13 kg,774,212,986,01-04-2021,14-07-2021,21 kg,49 kg
+Au212,Lays-ASCO,Snacks,Pepsi,41,13 kg,828,368,1196,13-03-2021,05-11-2021,28 kg,43 kg
+Au213,Lays-IMM,Snacks,Pepsi,42,13 kg,924,299,1223,01-01-2021,19-06-2021,24 kg,46 kg
+Au214,Lays-IMM,Snacks,Pepsi,24,12 kg,630,375,1005,29-04-2021,18-10-2021,31 kg,48 kg
+Au215,Lays-ASCO,Snacks,Pepsi,18,5 kg,652,358,1010,19-01-2021,25-08-2021,33 kg,44 kg
+Au216,Lays-ASCO,Snacks,Pepsi,24,12 kg,589,288,877,14-04-2021,04-08-2021,21 kg,47 kg
+Au217,Lays-IMM,Snacks,Pepsi,46,14 kg,674,255,929,26-04-2021,21-07-2021,20 kg,53 kg
+Au218,Lays-ASCO,Snacks,Pepsi,33,5 kg,624,103,727,11-02-2021,06-08-2021,33 kg,54 kg
+Au219,Lays,Snacks,Pepsi,17,13 kg,504,209,713,31-05-2021,21-11-2021,30 kg,46 kg
+Au220,Lays,Snacks,Pepsi,49,6 kg,913,262,1175,13-03-2021,02-09-2021,28 kg,52 kg
+Au221,Lays-IMM,Snacks,Pepsi,15,6 kg,748,279,1027,19-02-2021,04-06-2021,28 kg,56 kg
+Au222,Lays,Snacks,Pepsi,17,15 kg,533,131,664,23-05-2021,27-06-2021,29 kg,51 kg
+Au223,Lays,Snacks,Pepsi,21,6 kg,885,148,1033,10-05-2021,18-08-2021,20 kg,54 kg
+Au224,Lays-IMM,Snacks,Pepsi,27,7 kg,716,275,991,28-03-2021,17-09-2021,32 kg,40 kg
+Au225,Lays-IMM,Snacks,Pepsi,34,10 kg,703,295,998,11-04-2021,26-06-2021,26 kg,48 kg
+Au226,Gamesa,Snacks,Pepsi,25,6 kg,929,190,1119,28-02-2021,07-10-2021,23 kg,57 kg
+Au227,Walker,Snacks,Pepsi,20,8 kg,810,165,975,17-01-2021,25-09-2021,32 kg,46 kg
+Au228,Walker,Snacks,Pepsi,37,12 kg,780,155,935,04-01-2021,03-08-2021,31 kg,57 kg
+Au229,Gamesa,Snacks,Pepsi,34,8 kg,552,231,783,23-02-2021,24-11-2021,24 kg,50 kg
+Au230,Walker,Snacks,Pepsi,37,5 kg,960,213,1173,29-03-2021,02-09-2021,21 kg,51 kg
+Au231,Quaker Oats,Snacks,Pepsi,46,9 kg,640,253,893,17-05-2021,12-09-2021,25 kg,41 kg
+Au232,Gamesa,Snacks,Pepsi,22,15 kg,715,269,984,19-05-2021,29-06-2021,30 kg,40 kg
+Au233,Quaker Oats,Snacks,Pepsi,13,11 kg,597,383,980,09-05-2021,04-06-2021,20 kg,48 kg
+Au234,Gamesa,Snacks,Pepsi,19,13 kg,966,208,1174,28-03-2021,22-09-2021,33 kg,60 kg
+Au235,Gamesa,Snacks,Pepsi,26,8 kg,733,187,920,30-01-2021,01-11-2021,21 kg,58 kg
+Au236,Walker,Snacks,Pepsi,20,7 kg,804,250,1054,25-02-2021,17-09-2021,26 kg,51 kg
+Au237,Quaker Oats,Snacks,Pepsi,22,13 kg,633,393,1026,22-01-2021,06-07-2021,24 kg,46 kg
+Au238,Quaker Oats,Snacks,Pepsi,32,5 kg,889,339,1228,23-04-2021,28-09-2021,24 kg,57 kg
+Au239,Gamesa,Snacks,Pepsi,16,15 kg,897,340,1237,01-02-2021,19-07-2021,34 kg,52 kg
+Au240,Gamesa,Snacks,Pepsi,42,6 kg,829,221,1050,03-03-2021,17-11-2021,35 kg,47 kg
+Au241,Quaker Oats,Snacks,Pepsi,26,7 kg,714,365,1079,20-02-2021,08-07-2021,22 kg,43 kg
+Au242,Gamesa,Snacks,Pepsi,28,11 kg,934,142,1076,20-01-2021,23-09-2021,24 kg,60 kg
+Au243,Quaker Oats,Snacks,Pepsi,31,13 kg,857,268,1125,09-01-2021,16-09-2021,35 kg,60 kg
+Au244,Gamesa,Snacks,Pepsi,14,12 kg,576,204,780,26-03-2021,03-07-2021,29 kg,58 kg
+Au245,Walker,Snacks,Pepsi,45,14 kg,731,263,994,02-04-2021,07-11-2021,23 kg,49 kg
+Au246,Gamesa,Snacks,Pepsi,12,14 kg,735,338,1073,06-03-2021,18-07-2021,25 kg,44 kg
+Au247,Walker,Snacks,Pepsi,14,8 kg,528,229,757,13-03-2021,21-06-2021,29 kg,46 kg
+Au248,Gamesa,Snacks,Pepsi,39,15 kg,667,107,774,23-01-2021,31-08-2021,30 kg,48 kg
+Au249,Gamesa,Snacks,Pepsi,13,7 kg,939,194,1133,05-01-2021,29-08-2021,24 kg,57 kg
+Au250,Gamesa,Snacks,Pepsi,13,8 kg,778,345,1123,21-04-2021,03-09-2021,31 kg,57 kg
+Au251,Gamesa,Snacks,Pepsi,46,12 kg,816,385,1201,05-02-2021,09-06-2021,32 kg,42 kg
+Au252,Gamesa,Snacks,Pepsi,10,8 kg,505,390,895,08-02-2021,18-06-2021,29 kg,49 kg
+Au253,Quaker Oats,Snacks,Pepsi,37,15 kg,574,166,740,07-04-2021,18-07-2021,35 kg,51 kg
+Au254,Quaker Oats,Snacks,Pepsi,32,8 kg,883,230,1113,09-01-2021,15-10-2021,29 kg,52 kg
+Au255,Quaker Oats,Snacks,Pepsi,11,15 kg,988,242,1230,23-05-2021,22-09-2021,40 kg,50 kg
+Au256,Mango Panna,Health Supplement,Patanjali,22,12 litres,696,302,998,12-01-2021,17-09-2021,53 litres,83 litres
+Au257,Aloe Vera Juice,Health Supplement,Patanjali,24,6 litres,811,376,1187,15-03-2021,13-10-2021,63 litres,74 litres
+Au258,Gilloy Juice,Health Supplement,Patanjali,11,12 litres,971,198,1169,12-01-2021,18-09-2021,31 litres,72 litres
+Au259,Amla Juice,Health Supplement,Patanjali,40,11 litres,935,315,1250,20-01-2021,01-10-2021,70 litres,83 litres
+Au260,Aloe Vera Juice,Health Supplement,Patanjali,15,10 litres,776,228,1004,31-03-2021,20-10-2021,68 litres,87 litres
+Au261,Tulsi Juice,Health Supplement,Patanjali,48,8 litres,729,400,1129,03-02-2021,11-10-2021,53 litres,77 litres
+Au262,Gilloy Juice,Health Supplement,Patanjali,28,7 litres,639,347,986,06-05-2021,25-08-2021,53 litres,80 litres
+Au263,Gilloy Juice,Health Supplement,Patanjali,43,12 litres,599,294,893,22-01-2021,04-06-2021,66 litres,98 litres
+Au264,Aloe Vera Juice,Health Supplement,Patanjali,36,7 litres,853,331,1184,16-01-2021,14-09-2021,35 litres,81 litres
+Au265,Gilloy Juice,Health Supplement,Patanjali,24,6 litres,833,248,1081,21-02-2021,21-07-2021,40 litres,89 litres
+Au266,Amla Juice,Health Supplement,Patanjali,12,13 litres,521,178,699,28-04-2021,01-06-2021,33 litres,95 litres
+Au267,Aloe Vera Juice,Health Supplement,Patanjali,50,13 litres,802,202,1004,08-04-2021,25-09-2021,43 litres,79 litres
+Au268,Tulsi Juice,Health Supplement,Patanjali,28,10 litres,857,243,1100,12-02-2021,30-09-2021,52 litres,87 litres
+Au269,Mango Panna,Health Supplement,Patanjali,49,8 litres,760,137,897,24-02-2021,30-10-2021,50 litres,84 litres
+Au270,Gilloy Juice,Health Supplement,Patanjali,17,10 litres,559,369,928,17-02-2021,10-09-2021,44 litres,84 litres
+Au271,Amla Juice,Health Supplement,Patanjali,42,14 litres,908,293,1201,19-03-2021,01-09-2021,65 litres,92 litres
+Au272,Aloe Vera Juice,Health Supplement,Patanjali,49,6 litres,676,116,792,30-03-2021,04-10-2021,40 litres,71 litres
+Au273,Amla Juice,Health Supplement,Patanjali,19,6 litres,904,282,1186,02-05-2021,08-09-2021,57 litres,90 litres
+Au274,Amla Juice,Health Supplement,Patanjali,41,14 litres,524,375,899,05-05-2021,14-06-2021,40 litres,81 litres
+Au275,Tulsi Juice,Health Supplement,Patanjali,20,13 litres,930,314,1244,15-01-2021,25-09-2021,46 litres,97 litres
+Au276,Amla Juice,Health Supplement,Patanjali,25,11 litres,644,132,776,08-02-2021,19-06-2021,50 litres,78 litres
+Au277,Tulsi Juice,Health Supplement,Patanjali,11,12 litres,924,396,1320,16-01-2021,13-06-2021,65 litres,82 litres
+Au278,Tulsi Juice,Health Supplement,Patanjali,47,11 litres,521,121,642,19-04-2021,25-08-2021,45 litres,94 litres
+Au279,Aloe Vera Juice,Health Supplement,Patanjali,17,13 litres,850,219,1069,06-05-2021,09-11-2021,63 litres,97 litres
+Au280,Tulsi Juice,Health Supplement,Patanjali,19,8 litres,957,267,1224,24-05-2021,02-06-2021,56 litres,82 litres
+Au281,Aloe Vera Juice,Health Supplement,Patanjali,34,14 litres,622,249,871,30-03-2021,05-09-2021,34 litres,82 litres
+Au282,Mango Panna,Health Supplement,Patanjali,26,11 litres,751,174,925,24-05-2021,07-10-2021,50 litres,93 litres
+Au283,Mango Panna,Health Supplement,Patanjali,28,15 litres,956,277,1233,11-02-2021,30-10-2021,66 litres,88 litres
+Au284,Aloe Vera Juice,Health Supplement,Patanjali,22,5 litres,747,168,915,04-03-2021,20-11-2021,70 litres,82 litres
+Au285,Gilloy Juice,Health Supplement,Patanjali,42,9 litres,599,376,975,28-02-2021,06-11-2021,30 litres,71 litres
+Au286,Aloe Vera Juice,Health Supplement,Patanjali,47,5 litres,846,146,992,02-04-2021,18-08-2021,62 litres,70 litres
+Au287,Mango Panna,Health Supplement,Patanjali,37,15 litres,758,367,1125,25-05-2021,05-07-2021,33 litres,94 litres
+Au288,Aloe Vera Juice,Health Supplement,Patanjali,11,7 litres,660,275,935,22-05-2021,06-10-2021,40 litres,86 litres
+Au289,Gilloy Juice,Health Supplement,Patanjali,10,10 litres,707,229,936,04-05-2021,01-08-2021,44 litres,78 litres
+Au290,Amla Juice,Health Supplement,Patanjali,34,10 litres,623,240,863,18-02-2021,01-12-2021,36 litres,92 litres
+Au291,Aloe Vera Juice,Health Supplement,Patanjali,15,11 litres,744,249,993,15-04-2021,05-11-2021,59 litres,91 litres
+Au292,Gilloy Juice,Health Supplement,Patanjali,41,15 litres,823,394,1217,28-05-2021,05-08-2021,60 litres,84 litres
+Au293,Aloe Vera Juice,Health Supplement,Patanjali,10,11 litres,752,224,976,16-05-2021,27-09-2021,57 litres,79 litres
+Au294,Kinley,Beverage,Coca Cola,48,10 litres,890,144,1034,16-02-2021,28-11-2021,80 litres,150 litres
+Au295,Women's Horlicks,Health Supplement,HUL,45,14 kg,915,399,1314,02-04-2021,27-09-2021,14 kg,50 kg
+Au296,Lite Horlicks,Health Supplement,HUL,12,9 kg,718,300,1018,17-02-2021,09-11-2021,17 kg,52 kg
+Au297,Lite Horlicks,Health Supplement,HUL,27,9 kg,670,261,931,03-04-2021,26-11-2021,17 kg,55 kg
+Au298,Women's Horlicks,Health Supplement,HUL,28,9 kg,757,227,984,07-05-2021,28-07-2021,27 kg,53 kg
+Au299,Women's Horlicks,Health Supplement,HUL,36,8 kg,887,203,1090,06-01-2021,26-10-2021,21 kg,51 kg
+Au300,Lite Horlicks,Health Supplement,HUL,30,15 kg,635,141,776,26-05-2021,10-10-2021,18 kg,53 kg
+Au301,Women's Horlicks,Health Supplement,HUL,46,9 kg,571,104,675,18-03-2021,19-07-2021,14 kg,54 kg
+Au302,Women's Horlicks,Health Supplement,HUL,23,7 kg,737,175,912,07-01-2021,14-10-2021,20 kg,53 kg
+Au303,Lite Horlicks,Health Supplement,HUL,31,12 kg,692,255,947,27-05-2021,22-08-2021,26 kg,52 kg
+Au304,Women's Horlicks,Health Supplement,HUL,26,8 kg,610,263,873,25-04-2021,11-09-2021,28 kg,53 kg
+Au305,Horlicks,Health Supplement,HUL,10,5 kg,883,231,1114,27-02-2021,19-11-2021,30 kg,51 kg
+Au306,Lite Horlicks,Health Supplement,HUL,13,12 kg,688,238,926,15-01-2021,03-09-2021,29 kg,51 kg
+Au307,Horlicks,Health Supplement,HUL,35,7 kg,752,102,854,21-02-2021,22-08-2021,23 kg,54 kg
+Au308,Honest Tea,Beverage,Coca Cola,48,12 litres,734,317,1051,29-03-2021,22-07-2021,25 litres,40 litres
+Au309,Aloo Bhujia,Snacks,Haldiram,18,13 kg,682,216,898,24-05-2021,09-11-2021,16 kg,37 kg
+Au310,Tasty Nuts,Snacks,Haldiram,41,13 kg,986,307,1293,30-05-2021,23-11-2021,14 kg,38 kg
+Au311,Bhel Puri,Snacks,Haldiram,46,5 kg,526,383,909,20-04-2021,23-10-2021,16 kg,42 kg
+Au312,Aloo Bhujia,Snacks,Haldiram,34,10 kg,639,158,797,06-01-2021,27-09-2021,22 kg,43 kg
+Au313,Bhujia Sev,Snacks,Haldiram,29,13 kg,683,176,859,24-05-2021,24-06-2021,26 kg,39 kg
+Au314,Tasty Nuts,Snacks,Haldiram,21,7 kg,574,292,866,17-02-2021,03-08-2021,17 kg,41 kg
+Au315,Bhel Puri,Snacks,Haldiram,11,10 kg,947,261,1208,05-02-2021,04-09-2021,11 kg,35 kg
+Au316,Aloo Bhujia,Snacks,Haldiram,26,7 kg,696,245,941,21-02-2021,10-11-2021,14 kg,43 kg
+Au317,Bhel Puri,Snacks,Haldiram,25,7 kg,747,236,983,15-02-2021,08-11-2021,15 kg,41 kg
+Au318,Bhel Puri,Snacks,Haldiram,16,13 kg,680,372,1052,03-02-2021,07-07-2021,16 kg,38 kg
+Au319,Bhel Puri,Snacks,Haldiram,25,10 kg,641,113,754,23-04-2021,31-08-2021,26 kg,37 kg
+Au320,Bhujia Sev,Snacks,Haldiram,29,7 kg,882,387,1269,13-04-2021,22-10-2021,20 kg,40 kg
+Au321,Bhel Puri,Snacks,Haldiram,17,6 kg,735,400,1135,13-04-2021,14-09-2021,17 kg,42 kg
+Au322,Tasty Nuts,Snacks,Haldiram,11,8 kg,937,117,1054,30-01-2021,10-06-2021,13 kg,41 kg
+Au323,Aloo Bhujia,Snacks,Haldiram,14,5 kg,632,192,824,17-01-2021,02-09-2021,29 kg,33 kg
+Au324,Bhel Puri,Snacks,Haldiram,34,8 kg,619,377,996,10-04-2021,28-06-2021,25 kg,38 kg
+Au325,Aloo Bhujia,Snacks,Haldiram,39,9 kg,642,188,830,20-05-2021,16-09-2021,21 kg,33 kg
+Au326,Tasty Nuts,Snacks,Haldiram,10,8 kg,689,300,989,19-02-2021,30-07-2021,20 kg,36 kg
+Au327,Aloo Bhujia,Snacks,Haldiram,32,5 kg,752,121,873,19-03-2021,21-09-2021,10 kg,44 kg
+Au328,Tasty Nuts,Snacks,Haldiram,35,14 kg,841,326,1167,24-05-2021,25-09-2021,20 kg,35 kg
+Au329,Bhujia Sev,Snacks,Haldiram,43,9 kg,569,304,873,31-03-2021,01-10-2021,22 kg,44 kg
+Au330,Tasty Nuts,Snacks,Haldiram,19,10 kg,703,339,1042,21-05-2021,16-06-2021,27 kg,39 kg
+Au331,Aloo Bhujia,Snacks,Haldiram,31,11 kg,861,207,1068,02-01-2021,10-07-2021,29 kg,41 kg
+Au332,Bhujia Sev,Snacks,Haldiram,41,10 kg,977,183,1160,08-02-2021,22-11-2021,20 kg,37 kg
+Au333,Aloo Bhujia,Snacks,Haldiram,26,8 kg,972,117,1089,02-01-2021,23-06-2021,17 kg,44 kg
+Au334,Bhel Puri,Snacks,Haldiram,49,6 kg,901,328,1229,19-02-2021,26-07-2021,11 kg,32 kg
+Au335,Women's Horlicks,Health Supplement,HUL,25,11 kg,667,370,1037,24-02-2021,08-10-2021,30 kg,34 kg
+Au336,Women's Horlicks,Health Supplement,HUL,42,12 kg,971,353,1324,31-01-2021,19-07-2021,15 kg,34 kg
+Au337,Horlicks,Health Supplement,HUL,20,10 kg,560,177,737,11-03-2021,05-11-2021,25 kg,36 kg
+Au338,Lite Horlicks,Health Supplement,HUL,44,5 kg,589,351,940,30-05-2021,01-08-2021,10 kg,37 kg
+Au339,Mother's Horlicks,Health Supplement,HUL,49,15 kg,880,293,1173,12-05-2021,27-06-2021,22 kg,40 kg
+Au340,Women's Horlicks,Health Supplement,HUL,48,7 kg,808,112,920,04-01-2021,20-08-2021,10 kg,31 kg
+Au341,Women's Horlicks,Health Supplement,HUL,47,5 kg,528,293,821,13-04-2021,04-08-2021,12 kg,36 kg
+Au342,Lite Horlicks,Health Supplement,HUL,43,5 kg,873,346,1219,05-02-2021,24-10-2021,25 kg,34 kg
+Au343,Mother's Horlicks,Health Supplement,HUL,41,12 kg,658,376,1034,29-03-2021,22-11-2021,26 kg,38 kg
+Au344,Lite Horlicks,Health Supplement,HUL,27,8 kg,525,161,686,06-05-2021,07-07-2021,29 kg,36 kg
+Au345,Lite Horlicks,Health Supplement,HUL,39,12 kg,976,298,1274,25-03-2021,15-10-2021,22 kg,38 kg
+Au346,Women's Horlicks,Health Supplement,HUL,41,8 kg,510,181,691,17-03-2021,07-08-2021,25 kg,38 kg
+Au347,Mother's Horlicks,Health Supplement,HUL,47,6 kg,757,122,879,03-04-2021,13-08-2021,25 kg,34 kg
+Au348,Horlicks,Health Supplement,HUL,34,15 kg,853,335,1188,26-02-2021,26-10-2021,21 kg,37 kg
+Au349,Mother's Horlicks,Health Supplement,HUL,42,8 kg,520,280,800,16-03-2021,12-11-2021,21 kg,41 kg
+Au350,Women's Horlicks,Health Supplement,HUL,48,15 kg,540,217,757,31-01-2021,06-11-2021,23 kg,41 kg
+Au351,Tropicana,Beverage,Pepsi,28,6 litres,983,219,1202,13-05-2021,24-07-2021,20 litres,30 litres
+Au352,Kurkure,Snacks,Pepsi,48,8 kg,564,298,862,12-04-2021,06-09-2021,16 kg,44 kg
+Au353,Kurkure,Snacks,Pepsi,48,10 kg,735,195,930,23-03-2021,13-09-2021,22 kg,45 kg
+Au354,Kurkure,Snacks,Pepsi,30,12 kg,590,182,772,27-01-2021,05-06-2021,10 kg,41 kg
+Au355,Kurkure-TA,Snacks,Pepsi,38,5 kg,824,206,1030,10-03-2021,20-08-2021,27 kg,45 kg
+Au356,Kurkure-TA,Snacks,Pepsi,29,7 kg,651,114,765,25-02-2021,25-08-2021,32 kg,44 kg
+Au357,Kurkure-Puff,Snacks,Pepsi,32,13 kg,619,314,933,08-05-2021,30-06-2021,23 kg,43 kg
+Au358,Kurkure-Puff,Snacks,Pepsi,26,11 kg,906,200,1106,11-03-2021,06-06-2021,16 kg,40 kg
+Au359,Kurkure-Puff,Snacks,Pepsi,27,15 kg,659,334,993,28-05-2021,10-10-2021,20 kg,43 kg
+Au360,Kurkure-Puff,Snacks,Pepsi,30,9 kg,955,277,1232,05-03-2021,22-09-2021,16 kg,44 kg
+Au361,Kurkure,Snacks,Pepsi,10,12 kg,889,161,1050,18-04-2021,19-10-2021,14 kg,45 kg
+Au362,Kurkure-TA,Snacks,Pepsi,40,14 kg,821,333,1154,17-02-2021,23-06-2021,34 kg,44 kg
+Au363,Kurkure-TA,Snacks,Pepsi,49,5 kg,698,247,945,21-04-2021,04-11-2021,17 kg,42 kg
+Au364,Kurkure-TA,Snacks,Pepsi,26,16 kg,770,262,1032,30-03-2021,29-07-2021,15 kg,40 kg
+Au365,Kurkure-TA,Snacks,Pepsi,49,12 kg,856,126,982,05-02-2021,20-06-2021,24 kg,42 kg
+Au366,Kurkure-Puff,Snacks,Pepsi,48,13 kg,808,278,1086,14-03-2021,16-06-2021,16 kg,41 kg
+Au367,Kurkure,Snacks,Pepsi,49,10 kg,605,168,773,21-01-2021,30-11-2021,13 kg,40 kg
+Au368,Kurkure-TA,Snacks,Pepsi,10,6 kg,635,279,914,21-04-2021,19-08-2021,30 kg,45 kg
+Au369,Kurkure-Puff,Snacks,Pepsi,50,12 kg,996,248,1244,25-01-2021,17-09-2021,12 kg,42 kg
+Au370,Kurkure-TA,Snacks,Pepsi,13,9 kg,938,258,1196,03-05-2021,28-09-2021,21 kg,40 kg
+Au371,Kurkure-Puff,Snacks,Pepsi,26,8 kg,739,284,1023,03-03-2021,29-08-2021,29 kg,40 kg
+Au372,Kurkure-Puff,Snacks,Pepsi,27,5 kg,843,361,1204,26-01-2021,15-08-2021,11 kg,42 kg
+Au373,Kurkure-Puff,Snacks,Pepsi,36,17 kg,773,219,992,08-05-2021,26-06-2021,23 kg,44 kg
+Au374,Kurkure-TA,Snacks,Pepsi,18,11 kg,882,260,1142,03-02-2021,30-09-2021,30 kg,40 kg
+Au375,Kurkure,Snacks,Pepsi,24,13 kg,540,270,810,02-03-2021,22-08-2021,10 kg,45 kg
+Au376,Kurkure-TA,Snacks,Pepsi,26,16 kg,926,327,1253,27-05-2021,23-09-2021,30 kg,42 kg
+Au377,Kurkure-TA,Snacks,Pepsi,44,7 kg,943,133,1076,26-05-2021,12-08-2021,25 kg,40 kg
+Au378,Kurkure-TA,Snacks,Pepsi,38,12 kg,959,216,1175,16-01-2021,07-06-2021,10 kg,42 kg
+Au379,Kurkure-TA,Snacks,Pepsi,24,6 kg,557,195,752,09-03-2021,04-11-2021,34 kg,45 kg
+Au380,Kurkure-Puff,Snacks,Pepsi,24,5 kg,858,261,1119,13-05-2021,06-07-2021,20 Kg,50 kg
+Au381,Groundnut Oil,Grocery,Freedom,32,6 litres,507,319,826,23-03-2021,08-09-2021,27 litres,75 litres
+Au382,Sunflower Oil,Grocery,Freedom,38,16 litres,891,224,1115,20-03-2021,03-08-2021,18 litres,40 litres
+Au383,Groundnut Oil,Grocery,Freedom,23,7 litres,788,253,1041,08-01-2021,30-07-2021,14 litres,56 litres
+Au384,Sunflower Oil,Grocery,Freedom,15,10 litres,639,166,805,23-02-2021,23-11-2021,30 litres,50 litres
+Au385,Groundnut Oil,Grocery,Freedom,22,7 litres,838,286,1124,15-01-2021,17-10-2021,26 litres,45 litres
+Au386,Groundnut Oil,Grocery,Freedom,21,7 litres,752,349,1101,07-05-2021,23-11-2021,20 litres,46 litres
+Au387,Sunflower Oil,Grocery,Freedom,23,7 litres,919,378,1297,06-02-2021,11-08-2021,23 litres,63 litres
+Au388,Groundnut Oil,Grocery,Freedom,23,8 litres,918,132,1050,22-03-2021,28-07-2021,29 litres,80 litres
+Au389,Groundnut Oil,Grocery,Freedom,11,15 litres,501,366,867,27-01-2021,19-07-2021,24 litres,58 litres
+Au390,Sunflower Oil,Grocery,Freedom,21,6 litres,900,396,1296,19-03-2021,12-11-2021,28 litres,64 litres
+Au391,Groundnut Oil,Grocery,Freedom,19,12 litres,976,389,1365,23-04-2021,17-08-2021,14 litres,72 litres
+Au392,Sunflower Oil,Grocery,Freedom,40,13 litres,776,271,1047,04-04-2021,23-07-2021,13 litres,41 litres
+Au393,Sunflower Oil,Grocery,Freedom,41,12 litres,651,298,949,02-04-2021,11-10-2021,27 litres,40 litres
+Au394,Sunflower Oil,Grocery,Freedom,28,6 litres,940,298,1238,08-01-2021,09-06-2021,29 litres,78 litres
+Au395,Sunflower Oil,Grocery,Freedom,47,17 litres,849,275,1124,20-03-2021,03-08-2021,28 litres,79 litres
+Au396,Groundnut Oil,Grocery,Freedom,18,17 litres,672,322,994,12-05-2021,30-09-2021,15 litres,79 litres
+Au397,Sunflower Oil,Grocery,Freedom,34,5 litres,518,298,816,19-05-2021,26-06-2021,15 litres,77 litres
+Au398,Groundnut Oil,Grocery,Freedom,12,16 litres,971,390,1361,13-01-2021,09-07-2021,14 litres,48 litres
+Au399,Sunflower Oil,Grocery,Freedom,21,6 litres,558,259,817,17-02-2021,28-07-2021,27 litres,56 litres
+Au400,Groundnut Oil,Grocery,Freedom,41,11 litres,737,287,1024,23-05-2021,05-10-2021,20 litres,70 litres
+Au401,Mustard Oil,Grocery,Engine,28,20 litres,524,120,644,05-03-2021,01-10-2021,10 litres,41 litres
+Au402,Mustard Oil,Grocery,Engine,21,10 litres,989,160,1149,27-01-2021,17-06-2021,28 litres,76 litres
+Au403,Mustard Oil,Grocery,Engine,26,15 litres,850,328,1178,31-03-2021,19-06-2021,15 litres,45 litres
+Au404,Mustard Oil,Grocery,Engine,45,7 litres,556,193,749,23-02-2021,12-08-2021,12 litres,58 litres
+Au405,Mustard Oil,Grocery,Engine,37,11 litres,940,171,1111,26-02-2021,16-06-2021,18 litres,70 litres
+Au406,Mustard Oil,Grocery,Engine,47,6 litres,571,276,847,12-03-2021,06-08-2021,21 litres,77 litres
+Au407,Mustard Oil,Grocery,Engine,32,20 litres,975,297,1272,17-01-2021,13-07-2021,14 litres,48 litres
+Au408,Mustard Oil,Grocery,Engine,15,13 litres,651,299,950,06-05-2021,08-11-2021,28 litres,46 litres
+Au409,Mustard Oil,Grocery,Engine,45,18 litres,722,376,1098,09-02-2021,01-06-2021,18 litres,72 litres
+Au410,Mustard Oil,Grocery,Engine,12,20 litres,857,363,1220,26-05-2021,06-06-2021,14 litres,64 litres
+Au411,Mustard Oil,Grocery,Engine,18,15 litres,666,164,830,08-01-2021,03-08-2021,23 litres,41 litres
+Au412,Mustard Oil,Grocery,Engine,26,17 litres,787,348,1135,24-05-2021,27-10-2021,13 litres,54 litres
+Au413,Mustard Oil,Grocery,Engine,26,6 litres,843,271,1114,08-03-2021,28-08-2021,19 litres,67 litres
+Au414,Mustard Oil,Grocery,Engine,30,7 litres,747,301,1048,06-04-2021,26-08-2021,21 litres,75 litres
+Au415,Mustard Oil,Grocery,Engine,17,16 litres,797,309,1106,09-03-2021,13-10-2021,24 litres,49 litres
+Au416,Mustard Oil,Grocery,Engine,40,8 litres,907,333,1240,28-01-2021,03-10-2021,17 litres,50 litres
+Au417,Mustard Oil,Grocery,Engine,13,19 litres,922,328,1250,02-05-2021,28-08-2021,26 litres,75 litres
+Au418,Mustard Oil,Grocery,Engine,25,7 litres,959,270,1229,19-05-2021,30-10-2021,14 litres,45 litres
+Au419,Mustard Oil,Grocery,Engine,45,7 litres,813,108,921,19-02-2021,27-10-2021,18 litres,46 litres
+Au420,Mustard Oil,Grocery,Engine,16,19 litres,571,110,681,25-04-2021,08-07-2021,24 litres,74 litres
+Au421,Mustard Oil,Grocery,Engine,22,11 litres,902,260,1162,30-04-2021,16-08-2021,17 litres,56 litres
+Au422,Mustard Oil,Grocery,Engine,39,8 litres,505,268,773,14-03-2021,01-09-2021,18 litres,76 litres
+Au423,Mustard Oil,Grocery,Engine,35,8 litres,984,388,1372,22-03-2021,31-08-2021,10 litres,56 litres
+Au424,Mustard Oil,Grocery,Engine,30,15 litres,523,237,760,24-05-2021,21-09-2021,24 litres,60 litres
+Au425,Mustard Oil,Grocery,Engine,29,17 litres,623,196,819,01-01-2021,28-07-2021,16 litres,56 litres
+Au426,Mustard Oil,Grocery,Engine,44,13 litres,533,265,798,28-03-2021,22-09-2021,25 litres,54 litres
+Au427,Mustard Oil,Grocery,Engine,48,17 litres,649,236,885,12-04-2021,11-06-2021,21 litres,66 litres
+Au428,Mustard Oil,Grocery,Engine,12,6 litres,506,179,685,20-04-2021,18-11-2021,20 litres,73 litres
+Au429,Mustard Oil,Grocery,Engine,43,6 litres,575,124,699,11-01-2021,09-11-2021,27 litres,54 litres
+Au430,Mustard Oil,Grocery,Engine,30,18 litres,831,116,947,12-02-2021,28-07-2021,27 litres,70 litres
+Au431,Mustard Oil,Grocery,Engine,35,11 litres,986,335,1321,25-02-2021,19-06-2021,15 litres,71 litres
+Au432,Mustard Oil,Grocery,Engine,44,7 litres,821,359,1180,01-01-2021,05-09-2021,10 litres,75 litres
+Au433,Mustard Oil,Grocery,Engine,36,6 litres,664,190,854,08-03-2021,25-06-2021,28 litres,44 litres
+Au434,Mustard Oil,Grocery,Engine,38,17 litres,786,238,1024,17-01-2021,11-11-2021,30 litres,52 litres
+Au435,Mustard Oil,Grocery,Engine,42,18 litres,844,209,1053,20-05-2021,21-09-2021,26 litres,76 litres
+Au436,Mustard Oil,Grocery,Engine,50,12 litres,698,186,884,15-05-2021,12-08-2021,20 litres,60 litres
+Au437,Amul Spray,Dairy,Amul,32,18 kg,878,336,1214,02-01-2021,22-08-2021,27 kg,55 kg
+Au438,Butter,Dairy,Amul,32,13 kg,743,318,1061,21-04-2021,19-07-2021,27 kg,50 kg
+Au439,Amul Spray,Dairy,Amul,17,11 kg,554,186,740,02-05-2021,25-08-2021,30 kg,54 kg
+Au440,Butter,Dairy,Amul,37,11 kg,557,387,944,04-03-2021,02-07-2021,27 kg,60 kg
+Au441,Butter,Dairy,Amul,37,16 kg,879,380,1259,24-01-2021,11-09-2021,23 kg,59 kg
+Au442,Butter,Dairy,Amul,14,6 kg,667,266,933,28-05-2021,14-06-2021,20 kg,53 kg
+Au443,Cheese,Dairy,Amul,48,8 kg,832,258,1090,19-04-2021,07-09-2021,20 kg,58 kg
+Au444,Cheese,Dairy,Amul,38,9 kg,704,179,883,24-04-2021,26-09-2021,32 kg,55 kg
+Au445,Amul Spray,Dairy,Amul,22,18 kg,568,183,751,01-03-2021,17-11-2021,37 kg,55 kg
+Au446,Amul Spray,Dairy,Amul,23,14 kg,979,248,1227,27-04-2021,09-06-2021,33 kg,53 kg
+Au447,Amul Spray,Dairy,Amul,50,5 kg,771,360,1131,21-02-2021,08-06-2021,26 kg,55 kg
+Au448,Butter,Dairy,Amul,32,11 kg,816,184,1000,18-05-2021,09-10-2021,32 kg,51 kg
+Au449,Amul Spray,Dairy,Amul,47,16 kg,788,306,1094,12-05-2021,17-08-2021,24 kg,54 kg
+Au450,Amul Spray,Dairy,Amul,46,13 kg,728,364,1092,10-01-2021,09-08-2021,26 kg,57 kg
+Au451,Butter,Dairy,Amul,36,19 kg,721,139,860,22-05-2021,09-07-2021,32 kg,52 kg
+Au452,Amul Spray,Dairy,Amul,10,20 kg,787,151,938,21-01-2021,27-06-2021,34 kg,54 kg
+Au453,Butter,Dairy,Amul,36,19 kg,667,326,993,23-04-2021,07-07-2021,30 kg,56 kg
+Au454,Cheese,Dairy,Amul,45,20 kg,744,111,855,19-03-2021,13-06-2021,29 kg,50 kg
+Au455,Butter,Dairy,Amul,25,19 kg,745,120,865,15-05-2021,16-08-2021,22 kg,53 kg
+Au456,Butter,Dairy,Amul,26,9 kg,538,107,645,08-03-2021,09-06-2021,34 kg,52 kg
+Au457,Cheese,Dairy,Amul,35,5 kg,698,189,887,28-01-2021,26-08-2021,35 kg,55 kg
+Au458,Amul Spray,Dairy,Amul,49,16 kg,623,380,1003,16-02-2021,05-06-2021,26 kg,57 kg
+Au459,Cheese,Dairy,Amul,17,17 kg,970,235,1205,17-03-2021,10-11-2021,21 kg,54 kg
+Au460,Amul Spray,Dairy,Amul,11,12 kg,625,347,972,20-01-2021,25-08-2021,23 kg,52 kg
+Au461,Butter,Dairy,Amul,11,11 kg,972,292,1264,20-01-2021,14-08-2021,33 kg,59 kg
+Au462,Butter,Dairy,Amul,49,20 kg,790,136,926,13-03-2021,07-07-2021,36 kg,60 kg
+Au463,Cheese,Dairy,Amul,50,18 kg,596,156,752,26-01-2021,08-06-2021,21 kg,56 kg
+Au464,Cheese,Dairy,Amul,46,17 kg,652,350,1002,30-03-2021,02-08-2021,21 kg,57 kg
+Au465,Amul Spray,Dairy,Amul,18,16 kg,797,273,1070,18-02-2021,18-08-2021,40 kg,53 kg
+Au466,Cheese,Dairy,Amul,22,11 kg,638,276,914,26-03-2021,13-07-2021,22 kg,59 kg
+Au467,Amul Spray,Dairy,Amul,27,20 kg,555,390,945,22-05-2021,17-08-2021,22 kg,50 kg
+Au468,Butter,Dairy,Amul,31,5 kg,768,115,883,01-01-2021,14-08-2021,32 kg,54 kg
+Au469,Butter,Dairy,Amul,24,6 kg,669,195,864,26-02-2021,19-10-2021,35 kg,56 kg
+Au470,Butter,Dairy,Amul,39,6 kg,571,127,698,21-02-2021,28-08-2021,39 kg,60 kg
+Au471,Cheese,Dairy,Amul,24,8 kg,831,143,974,01-03-2021,07-09-2021,38 kg,58 kg
+Au472,Amul Spray,Dairy,Amul,29,17 kg,554,237,791,19-05-2021,20-10-2021,32 kg,56 kg
+Au473,Butter,Dairy,Amul,24,11 kg,679,300,979,11-03-2021,01-08-2021,30 kg,51 kg
+Au474,Cheese,Dairy,Amul,25,5 kg,852,267,1119,12-02-2021,16-06-2021,24 kg,57 kg
+Au475,Amul Spray,Dairy,Amul,44,13 kg,984,161,1145,02-05-2021,06-07-2021,20 kg,59 kg
+Au476,Amul Spray,Dairy,Amul,22,16 kg,524,302,826,14-02-2021,22-07-2021,26 kg,58 kg
+Au477,Honey,Health Supplement,Patanjali,17,5 kg,773,181,954,07-03-2021,26-08-2021,39 kg,53 kg
+Au478,Honey,Health Supplement,Patanjali,45,9 kg,717,223,940,22-04-2021,15-09-2021,28 kg,60 kg
+Au479,Chawanprash,Health Supplement,Patanjali,46,8 kg,999,386,1385,18-04-2021,10-07-2021,20 kg,54 kg
+Au480,Patanjali Dant Kanti,Health Supplement,Patanjali,49,11 kg,942,130,1072,03-02-2021,03-07-2021,24 kg,51 kg
+Au481,Chawanprash,Health Supplement,Patanjali,19,7 kg,644,343,987,09-05-2021,18-09-2021,27 kg,53 kg
+Au482,Patanjali Dant Kanti,Health Supplement,Patanjali,16,14 kg,908,295,1203,15-04-2021,12-06-2021,40 kg,52 kg
+Au483,Patanjali Dant Kanti,Health Supplement,Patanjali,24,15 kg,695,229,924,15-03-2021,30-09-2021,21 kg,58 kg
+Au484,Honey,Health Supplement,Patanjali,13,11 kg,723,375,1098,23-03-2021,22-10-2021,24 kg,58 kg
+Au485,Patanjali Dant Kanti,Health Supplement,Patanjali,28,13 kg,632,217,849,23-05-2021,24-06-2021,38 kg,54 kg
+Au486,Chawanprash,Health Supplement,Patanjali,38,19 kg,680,105,785,15-04-2021,09-09-2021,30 kg,51 kg
+Au487,Patanjali Dant Kanti,Health Supplement,Patanjali,38,16 kg,748,186,934,01-04-2021,20-10-2021,35 kg,50 kg
+Au488,Patanjali Dant Kanti,Health Supplement,Patanjali,16,6 kg,898,113,1011,01-05-2021,02-07-2021,39 kg,59 kg
+Au489,Chawanprash,Health Supplement,Patanjali,44,17 kg,983,216,1199,06-03-2021,22-08-2021,35 kg,52 kg
+Au490,Chawanprash,Health Supplement,Patanjali,22,5 kg,803,171,974,03-04-2021,01-09-2021,31 kg,54 kg
+Au491,Honey,Health Supplement,Patanjali,31,11 kg,758,237,995,21-02-2021,22-10-2021,28 kg,58 kg
+Au492,Honey,Health Supplement,Patanjali,39,6 kg,764,116,880,15-05-2021,14-08-2021,34 kg,55 kg
+Au493,Gatorade,Beverage,Pepsi,18,14 litres,523,273,796,30-03-2021,11-10-2021,24 litres,52 litres
+Au494,Minute Maid,Beverage,Coca Cola,26,14 litres,636,398,1034,19-04-2021,13-06-2021,38 litres,53 litres
+Au495,Coca-Cola,Beverage,Coca Cola,20,14 litres,781,363,1144,21-01-2021,15-06-2021,36 litres,60 litres
+Au496,Honest Tea,Beverage,Coca Cola,37,13 litres,715,177,892,08-02-2021,20-09-2021,34 litres,59 litres
+Au497,Coca-Cola,Beverage,Coca Cola,23,8 litres,863,135,998,02-05-2021,01-12-2021,25 litres,53 litres
+Au498,Bhel Puri,Snacks,Haldiram,14,7 kg,925,175,1100,01-04-2021,31-10-2021,29 kg,57 kg
+Au499,Tasty Nuts,Snacks,Haldiram,50,12 kg,830,253,1083,17-01-2021,23-09-2021,39 kg,53 kg
+Au500,Tasty Nuts,Snacks,Haldiram,42,16 kg,507,162,669,19-03-2021,25-08-2021,40 kg,52 kg
+Au501,Bhel Puri,Snacks,Haldiram,26,14 kg,923,170,1093,10-01-2021,10-07-2021,31 kg,51 kg
+Au502,Aloo Bhujia,Snacks,Haldiram,12,13 kg,935,286,1221,10-05-2021,09-07-2021,33 kg,59 kg
+Au503,Aloo Bhujia,Snacks,Haldiram,49,13 kg,872,175,1047,05-01-2021,24-06-2021,39 kg,57 kg
+Au504,Tasty Nuts,Snacks,Haldiram,38,17 kg,940,192,1132,13-03-2021,22-10-2021,36 kg,55 kg
+Au505,Bhujia Sev,Snacks,Haldiram,29,18 kg,530,282,812,11-05-2021,15-09-2021,26 kg,57 kg
+Au506,Tasty Nuts,Snacks,Haldiram,40,10 kg,813,110,923,14-04-2021,06-07-2021,36 kg,59 kg
+Au507,Tasty Nuts,Snacks,Haldiram,21,11 kg,708,152,860,12-05-2021,29-09-2021,22 kg,56 kg
+Au508,Tasty Nuts,Snacks,Haldiram,11,10 kg,537,289,826,28-04-2021,19-11-2021,29 kg,51 kg
+Au509,Tasty Nuts,Snacks,Haldiram,25,14 kg,724,239,963,10-01-2021,12-06-2021,33 kg,54 kg
+Au510,Aloo Bhujia,Snacks,Haldiram,28,17 kg,935,264,1199,27-02-2021,13-10-2021,39 kg,55 kg
+Au511,Bhujia Sev,Snacks,Haldiram,31,14 kg,742,188,930,20-02-2021,10-07-2021,22 kg,60 kg
+Au512,Aloo Bhujia,Snacks,Haldiram,42,12 kg,984,380,1364,27-04-2021,30-06-2021,27 kg,60 kg
+Au513,Bhel Puri,Snacks,Haldiram,30,10 kg,955,206,1161,05-04-2021,22-11-2021,21 kg,56 kg
+Au514,Bhujia Sev,Snacks,Haldiram,32,13 kg,561,297,858,31-01-2021,09-06-2021,34 kg,54 kg
+Au515,Aloo Bhujia,Snacks,Haldiram,35,12 kg,905,187,1092,17-05-2021,22-07-2021,26 kg,60 kg
+Au516,Bhujia Sev,Snacks,Haldiram,48,16 kg,549,218,767,11-01-2021,23-09-2021,22 kg,52 kg
+Au517,Bhel Puri,Snacks,Haldiram,46,7 kg,962,144,1106,04-02-2021,10-11-2021,32 kg,58 kg
+Au518,Bhel Puri,Snacks,Haldiram,42,10 kg,908,185,1093,11-04-2021,13-08-2021,39 kg,56 kg
+Au519,Bhujia Sev,Snacks,Haldiram,35,17 kg,869,293,1162,25-04-2021,15-09-2021,35 kg,55 kg
+Au520,Tasty Nuts,Snacks,Haldiram,14,7 kg,773,386,1159,25-02-2021,06-08-2021,23 kg,59 kg
+Au521,Aloo Bhujia,Snacks,Haldiram,14,20 kg,802,131,933,04-05-2021,29-08-2021,36 kg,50 kg
+Au522,Tasty Nuts,Snacks,Haldiram,41,16 kg,893,252,1145,18-01-2021,02-11-2021,21 kg,50 kg
+Au523,Aloo Bhujia,Snacks,Haldiram,21,8 kg,630,312,942,18-03-2021,03-08-2021,27 kg,55 kg
+Au524,Bhujia Sev,Snacks,Haldiram,33,6 kg,910,326,1236,22-01-2021,23-10-2021,29 kg,57 kg
+Au525,Aloo Bhujia,Snacks,Haldiram,35,10 kg,968,316,1284,27-02-2021,22-11-2021,21 kg,55 kg
+Au526,Bhel Puri,Snacks,Haldiram,37,8 kg,899,386,1285,03-02-2021,07-08-2021,37 kg,52 kg
+Au527,Bhel Puri,Snacks,Haldiram,40,6 kg,807,381,1188,14-03-2021,02-10-2021,27 kg,50 kg
+Au528,Bhel Puri,Snacks,Haldiram,31,15 kg,531,303,834,20-04-2021,02-11-2021,32 kg,58 kg
+Au529,Tasty Nuts,Snacks,Haldiram,31,9 kg,560,271,831,18-03-2021,15-10-2021,29 kg,59 kg
+Au530,Bhujia Sev,Snacks,Haldiram,17,5 kg,702,268,970,03-03-2021,01-07-2021,22 kg,54 kg
+Au531,Bhujia Sev,Snacks,Haldiram,40,7 kg,767,384,1151,27-05-2021,23-11-2021,25 kg,50 kg
+Au532,Aloo Bhujia,Snacks,Haldiram,31,14 kg,887,107,994,30-04-2021,19-06-2021,33 kg,51 kg
+Au533,Aloo Bhujia,Snacks,Haldiram,21,20 kg,817,176,993,15-01-2021,12-09-2021,40 kg,60 kg
+Au534,Bhujia Sev,Snacks,Haldiram,30,10 kg,598,389,987,07-01-2021,29-10-2021,24 kg,59 kg
+Au535,Tasty Nuts,Snacks,Haldiram,23,10 kg,571,382,953,25-03-2021,22-09-2021,37 kg,57 kg
+Au536,Bhel Puri,Snacks,Haldiram,20,15 kg,978,214,1192,13-01-2021,22-09-2021,21 kg,50 kg
+Au537,Tasty Nuts,Snacks,Haldiram,26,12 kg,539,327,866,02-05-2021,04-11-2021,39 kg,59 kg
+Au538,Tasty Nuts,Snacks,Haldiram,10,18 kg,746,381,1127,19-05-2021,10-10-2021,20 kg,55 kg
+Au539,Bhel Puri,Snacks,Haldiram,45,10 kg,867,356,1223,30-04-2021,08-10-2021,30 kg,59 kg
+Au540,Bhujia Sev,Snacks,Haldiram,16,17 kg,588,331,919,03-03-2021,10-08-2021,28 kg,51 kg
+Au541,Tasty Nuts,Snacks,Haldiram,47,18 kg,586,229,815,03-03-2021,23-10-2021,27 kg,59 kg
+Au542,Bhujia Sev,Snacks,Haldiram,17,10 kg,594,207,801,08-05-2021,16-06-2021,33 kg,60 kg
+Au543,Tasty Nuts,Snacks,Haldiram,10,12 kg,674,223,897,21-01-2021,26-06-2021,25 kg,52 kg
+Au544,Bhujia Sev,Snacks,Haldiram,30,19 kg,761,184,945,09-04-2021,01-07-2021,34 kg,53 kg
+Au545,Bhel Puri,Snacks,Haldiram,13,8 kg,536,387,923,03-05-2021,14-08-2021,20 kg,50 kg
+Au546,Aloo Bhujia,Snacks,Haldiram,12,14 kg,974,383,1357,16-02-2021,25-07-2021,26 kg,60 kg
+Au547,Tasty Nuts,Snacks,Haldiram,38,9 kg,575,281,856,14-01-2021,05-10-2021,35 kg,57 kg
+Au548,Bhujia Sev,Snacks,Haldiram,15,9 kg,801,186,987,21-02-2021,08-06-2021,27 kg,53 kg
+Au549,Bhujia Sev,Snacks,Haldiram,12,19 kg,886,228,1114,08-02-2021,30-07-2021,39 kg,51 kg
+Au550,Thumps Up,Beverage,Coca Cola,32,20 litres,865,110,975,03-03-2021,22-09-2021,36 litres,60 litres
+Au551,Thumps Up,Beverage,Coca Cola,25,17 litres,867,252,1119,23-01-2021,03-10-2021,39 litres,57 litres
+Au552,Thumps Up,Beverage,Coca Cola,14,12 litres,926,107,1033,04-05-2021,22-08-2021,38 litres,55 litres
+Au553,Minute Maid,Beverage,Coca Cola,38,19 litres,865,194,1059,21-01-2021,13-06-2021,30 litres,52 litres
+Au554,Coca-Cola,Beverage,Coca Cola,43,10 litres,746,358,1104,01-05-2021,28-10-2021,32 litres,50 litres
+Au555,Kinley,Beverage,Coca Cola,15,15 litres,986,120,1106,29-03-2021,17-07-2021,22 litres,57 litres
+Au556,Minute Maid,Beverage,Coca Cola,19,20 litres,979,120,1099,17-04-2021,12-09-2021,24 litres,60 litres
+Au557,Kinley,Beverage,Coca Cola,28,13 litres,966,330,1296,14-02-2021,27-09-2021,30 litres,54 litres
+Au558,Thumps Up,Beverage,Coca Cola,47,20 litres,660,222,882,30-05-2021,20-06-2021,35 litres,52 litres
+Au559,Coca-Cola,Beverage,Coca Cola,49,20 litres,887,395,1282,06-02-2021,25-11-2021,39 litres,52 litres
+Au560,Sprite,Beverage,Coca Cola,36,6 litres,577,370,947,23-01-2021,22-06-2021,40 litres,53 litres
+Au561,Minute Maid,Beverage,Coca Cola,40,13 litres,874,138,1012,28-03-2021,18-06-2021,24 litres,55 litres
+Au562,Kinley,Beverage,Coca Cola,37,20 litres,937,222,1159,11-04-2021,08-07-2021,40 litres,54 litres
+Au563,Kinley,Beverage,Coca Cola,22,19 litres,760,383,1143,26-01-2021,16-10-2021,21 litres,53 litres
+Au564,Sprite,Beverage,Coca Cola,20,18 litres,827,302,1129,27-05-2021,26-11-2021,26 litres,55 litres
+Au565,Kinley,Beverage,Coca Cola,47,12 litres,513,272,785,17-01-2021,14-07-2021,38 litres,55 litres
+Au566,Kinley,Beverage,Coca Cola,29,14 litres,740,239,979,12-05-2021,21-06-2021,37 litres,58 litres
+Au567,Minute Maid,Beverage,Coca Cola,47,14 litres,696,317,1013,20-02-2021,18-09-2021,24 litres,52 litres
+Au568,Thumps Up,Beverage,Coca Cola,21,15 litres,957,146,1103,26-03-2021,24-11-2021,39 litres,59 litres
+Au569,Sprite,Beverage,Coca Cola,22,8 litres,970,274,1244,25-01-2021,29-08-2021,32 litres,50 litres
+Au570,Sprite,Beverage,Coca Cola,19,8 litres,870,117,987,15-01-2021,06-07-2021,34 litres,60 litres
+Au571,Honest Tea,Beverage,Coca Cola,46,9 litres,664,298,962,26-04-2021,03-10-2021,31 litres,53 litres
+Au572,Coca-Cola,Beverage,Coca Cola,38,5 litres,942,272,1214,11-04-2021,27-08-2021,39 litres,56 litres
+Au573,Minute Maid,Beverage,Coca Cola,37,7 litres,794,231,1025,24-04-2021,11-11-2021,36 litres,58 litres
+Au574,Minute Maid,Beverage,Coca Cola,29,11 litres,682,182,864,10-01-2021,17-09-2021,20 litres,54 litres
+Au575,Minute Maid,Beverage,Coca Cola,26,5 litres,612,151,763,25-05-2021,22-07-2021,27 litres,59 litres
+Au576,Sprite,Beverage,Coca Cola,23,17 litres,580,203,783,28-02-2021,03-07-2021,38 litres,55 litres
+Au577,Sprite,Beverage,Coca Cola,19,7 litres,839,364,1203,27-02-2021,06-10-2021,25 litres,60 litres
+Au578,Kinley,Beverage,Coca Cola,29,5 litres,880,353,1233,29-03-2021,15-09-2021,30 litres,55 litres
+Au579,Thumps Up,Beverage,Coca Cola,37,16 litres,669,387,1056,03-02-2021,27-07-2021,27 litres,55 litres
+Au580,Honest Tea,Beverage,Coca Cola,45,17 litres,915,158,1073,30-05-2021,25-07-2021,32 litres,50 litres
+Au581,Kinley,Beverage,Coca Cola,23,9 litres,809,165,974,12-02-2021,14-07-2021,36 litres,59 litres
+Au582,Coca-Cola,Beverage,Coca Cola,46,6 litres,628,334,962,22-04-2021,22-11-2021,38 litres,53 litres
+Au583,Minute Maid,Beverage,Coca Cola,45,5 litres,593,294,887,07-04-2021,01-06-2021,33 litres,59 litres
+Au584,Minute Maid,Beverage,Coca Cola,31,6 litres,910,125,1035,22-01-2021,07-09-2021,25 litres,53 litres
+Au585,Honest Tea,Beverage,Coca Cola,26,6 litres,880,213,1093,08-02-2021,18-08-2021,34 litres,55 litres
+Au586,Minute Maid,Beverage,Coca Cola,10,16 litres,581,119,700,28-01-2021,25-07-2021,25 litres,59 litres
+Au587,Sprite,Beverage,Coca Cola,29,14 litres,642,151,793,24-01-2021,02-06-2021,30 litres,58 litres
+Au588,Kinley,Beverage,Coca Cola,38,18 litres,517,314,831,27-03-2021,19-07-2021,23 litres,56 litres
+Au589,Minute Maid,Beverage,Coca Cola,32,19 litres,775,270,1045,06-03-2021,29-07-2021,38 litres,53 litres
+Au590,Minute Maid,Beverage,Coca Cola,13,15 litres,564,182,746,14-02-2021,29-10-2021,27 litres,51 litres
+Au591,Coca-Cola,Beverage,Coca Cola,26,12 litres,994,171,1165,09-01-2021,28-06-2021,36 litres,59 litres
+Au592,Sprite,Beverage,Coca Cola,22,9 litres,725,329,1054,13-02-2021,20-08-2021,23 litres,57 litres
+Au593,Honest Tea,Beverage,Coca Cola,39,17 litres,655,178,833,03-04-2021,19-08-2021,36 litres,55 litres
+Au594,Sprite,Beverage,Coca Cola,50,20 litres,832,180,1012,15-02-2021,12-11-2021,35 litres,52 litres
+Au595,Honest Tea,Beverage,Coca Cola,13,9 litres,945,287,1232,17-04-2021,10-11-2021,28 litres,60 litres
+Au596,Kinley,Beverage,Coca Cola,48,5 litres,566,360,926,28-05-2021,06-07-2021,21 litres,50 litres
+Au597,Minute Maid,Beverage,Coca Cola,18,19 litres,937,129,1066,10-05-2021,16-09-2021,29 litres,54 litres
+Au598,Kinley,Beverage,Coca Cola,10,20 litres,809,371,1180,17-04-2021,25-10-2021,39 litres,57 litres
+Au599,Thumps Up,Beverage,Coca Cola,13,13 litres,869,302,1171,04-04-2021,05-10-2021,31 litres,59 litres
+Au600,Butter,Dairy,Amul,17,11 kg,555,162,717,25-04-2021,13-08-2021,26 kg,53 kg
+Au601,Cheese,Dairy,Amul,42,14 kg,637,310,947,01-03-2021,24-09-2021,32 kg,57 kg
+Au602,Cheese,Dairy,Amul,34,13 kg,835,342,1177,18-04-2021,15-09-2021,23 kg,57 kg
+Au603,Amul Spray,Dairy,Amul,25,10 kg,512,311,823,10-01-2021,07-10-2021,23 kg,52 kg
+Au604,Amul Spray,Dairy,Amul,22,13 kg,805,298,1103,14-02-2021,08-09-2021,27 kg,60 kg
+Au605,Butter,Dairy,Amul,33,9 kg,952,160,1112,03-05-2021,28-07-2021,20 kg,58 kg
+Au606,Amul Spray,Dairy,Amul,20,16 kg,954,139,1093,09-02-2021,16-07-2021,23 kg,56 kg
+Au607,Butter,Dairy,Amul,12,12 kg,755,394,1149,07-05-2021,04-09-2021,37 kg,55 kg
+Au608,Cheese,Dairy,Amul,17,13 kg,712,156,868,08-02-2021,17-08-2021,35 kg,57 kg
+Au609,Amul Spray,Dairy,Amul,35,6 kg,605,154,759,06-03-2021,30-08-2021,37 kg,52 kg
+Au610,Cheese,Dairy,Amul,11,15 kg,500,294,794,11-05-2021,06-08-2021,22 kg,56 kg
+Au611,Cheese,Dairy,Amul,26,18 kg,640,231,871,26-01-2021,06-07-2021,26 kg,60 kg
+Au612,Butter,Dairy,Amul,15,18 kg,659,246,905,16-04-2021,02-07-2021,31 kg,52 kg
+Au613,Cheese,Dairy,Amul,36,7 kg,996,127,1123,27-03-2021,14-11-2021,32 kg,55 kg
+Au614,Amul Spray,Dairy,Amul,37,16 kg,936,358,1294,12-03-2021,21-07-2021,30 kg,53 kg
+Au615,Amul Spray,Dairy,Amul,38,20 kg,897,142,1039,18-01-2021,06-07-2021,21 kg,55 kg
+Au616,Cheese,Dairy,Amul,49,11 kg,981,318,1299,02-01-2021,07-11-2021,33 kg,54 kg
+Au617,Amul Spray,Dairy,Amul,15,19 kg,690,185,875,26-02-2021,28-06-2021,27 kg,51 kg
+Au618,Amul Spray,Dairy,Amul,31,17 kg,894,364,1258,31-05-2021,07-10-2021,38 kg,59 kg
+Au619,Cheese,Dairy,Amul,11,10 kg,663,137,800,24-04-2021,22-07-2021,21 kg,59 kg
+Au620,Amul Spray,Dairy,Amul,27,13 kg,936,187,1123,04-02-2021,30-09-2021,27 kg,58 kg
+Au621,Butter,Dairy,Amul,39,19 kg,572,103,675,02-05-2021,03-11-2021,24 kg,53 kg
+Au622,Butter,Dairy,Amul,30,18 kg,732,164,896,28-05-2021,30-10-2021,29 kg,58 kg
+Au623,Butter,Dairy,Amul,33,6 kg,770,142,912,09-03-2021,01-08-2021,34 kg,51 kg
+Au624,Butter,Dairy,Amul,14,19 kg,517,365,882,24-05-2021,10-11-2021,37 kg,59 kg
+Au625,Butter,Dairy,Amul,42,20 kg,948,275,1223,22-04-2021,02-08-2021,28 kg,56 kg
+Au626,Cheese,Dairy,Amul,21,13 kg,638,110,748,24-02-2021,08-11-2021,30 kg,59 kg
+Au627,Amul Spray,Dairy,Amul,43,15 kg,697,389,1086,18-01-2021,15-06-2021,29 kg,53 kg
+Au628,Cheese,Dairy,Amul,23,12 kg,684,181,865,04-04-2021,17-08-2021,25 kg,57 kg
+Au629,Cheese,Dairy,Amul,16,12 kg,711,397,1108,28-05-2021,04-09-2021,33 kg,53 kg
+Au630,Cheese,Dairy,Amul,29,6 kg,581,284,865,04-04-2021,16-07-2021,29 kg,50 kg
+Au631,Amul Spray,Dairy,Amul,10,14 kg,767,350,1117,06-02-2021,04-10-2021,31 kg,54 kg
+Au632,Amul Spray,Dairy,Amul,37,12 kg,676,266,942,23-02-2021,27-08-2021,28 kg,55 kg
+Au633,Amul Spray,Dairy,Amul,38,9 kg,773,243,1016,16-04-2021,29-07-2021,40 kg,53 kg
+Au634,Amul Spray,Dairy,Amul,21,18 kg,844,285,1129,11-04-2021,05-09-2021,28 kg,55 kg
+Au635,Cheese,Dairy,Amul,36,7 kg,834,188,1022,01-05-2021,23-08-2021,29 kg,56 kg
+Au636,Cheese,Dairy,Amul,20,8 kg,655,319,974,25-01-2021,24-11-2021,32 kg,57 kg
+Au637,Amul Spray,Dairy,Amul,41,14 kg,612,258,870,30-05-2021,18-09-2021,34 kg,53 kg
+Au638,Amul Spray,Dairy,Amul,20,8 kg,824,370,1194,13-02-2021,20-08-2021,33 kg,50 kg
+Au639,Amul Spray,Dairy,Amul,40,18 kg,583,244,827,18-01-2021,06-08-2021,24 kg,55 kg
+Au640,Amla Juice,Health Supplement,Patanjali,34,9 litres,872,219,1091,07-01-2021,21-09-2021,30 litres,60 litres
+Au641,Amla Juice,Health Supplement,Patanjali,31,8 litres,892,148,1040,18-05-2021,16-10-2021,40 litres,52 litres
+Au642,Gilloy Juice,Health Supplement,Patanjali,22,16 litres,716,268,984,12-04-2021,06-07-2021,22 litres,60 litres
+Au643,Aloe Vera Juice,Health Supplement,Patanjali,37,5 litres,521,302,823,26-02-2021,02-11-2021,37 litres,59 litres
+Au644,Tulsi Juice,Health Supplement,Patanjali,30,15 litres,869,144,1013,16-02-2021,02-11-2021,32 litres,51 litres
+Au645,Amla Juice,Health Supplement,Patanjali,30,15 litres,819,186,1005,01-01-2021,11-06-2021,25 litres,56 litres
+Au646,Gilloy Juice,Health Supplement,Patanjali,37,16 litres,792,226,1018,31-05-2021,03-08-2021,21 litres,55 litres
+Au647,Tulsi Juice,Health Supplement,Patanjali,45,12 litres,605,304,909,01-04-2021,05-09-2021,35 litres,50 litres
+Au648,Gilloy Juice,Health Supplement,Patanjali,16,7 litres,656,161,817,23-01-2021,01-11-2021,28 litres,53 litres
+Au649,Aloe Vera Juice,Health Supplement,Patanjali,43,15 litres,569,193,762,10-02-2021,01-07-2021,33 litres,50 litres
+Au650,Mango Panna,Health Supplement,Patanjali,27,19 litres,572,374,946,01-01-2021,31-07-2021,30 litres,51 litres
+Au651,Amla Juice,Health Supplement,Patanjali,27,15 litres,713,239,952,06-03-2021,27-07-2021,35 litres,50 litres
+Au652,Amla Juice,Health Supplement,Patanjali,36,16 litres,972,289,1261,20-02-2021,22-09-2021,33 litres,57 litres
+Au653,Tulsi Juice,Health Supplement,Patanjali,31,6 litres,911,257,1168,02-02-2021,21-10-2021,23 litres,52 litres
+Au654,Gilloy Juice,Health Supplement,Patanjali,12,14 litres,658,102,760,03-05-2021,30-06-2021,31 litres,55 litres
+Au655,Mango Panna,Health Supplement,Patanjali,35,8 litres,986,189,1175,30-04-2021,23-08-2021,35 litres,57 litres
+Au656,Aloe Vera Juice,Health Supplement,Patanjali,10,15 litres,683,221,904,13-03-2021,29-09-2021,40 litres,50 litres
+Au657,Tulsi Juice,Health Supplement,Patanjali,22,13 litres,820,232,1052,18-04-2021,24-07-2021,21 litres,54 litres
+Au658,Mango Panna,Health Supplement,Patanjali,29,16 litres,727,190,917,12-05-2021,08-09-2021,23 litres,52 litres
+Au659,Aloe Vera Juice,Health Supplement,Patanjali,30,18 litres,942,389,1331,29-04-2021,02-06-2021,23 litres,50 litres
+Au660,Aloe Vera Juice,Health Supplement,Patanjali,10,15 litres,762,164,926,16-03-2021,03-10-2021,23 litres,51 litres
+Au661,Aloe Vera Juice,Health Supplement,Patanjali,41,16 litres,513,370,883,06-02-2021,11-11-2021,26 litres,57 litres
+Au662,Mango Panna,Health Supplement,Patanjali,30,17 litres,594,379,973,30-01-2021,17-07-2021,34 litres,51 litres
+Au663,Aloe Vera Juice,Health Supplement,Patanjali,25,9 litres,644,234,878,21-03-2021,10-07-2021,22 litres,60 litres
+Au664,Gilloy Juice,Health Supplement,Patanjali,19,12 litres,673,151,824,11-02-2021,06-10-2021,26 litres,52 litres
+Au665,Amla Juice,Health Supplement,Patanjali,47,7 litres,694,392,1086,28-05-2021,30-07-2021,36 litres,55 litres
+Au666,Mango Panna,Health Supplement,Patanjali,44,17 litres,657,185,842,10-03-2021,10-09-2021,37 litres,52 litres
+Au667,Gilloy Juice,Health Supplement,Patanjali,27,15 litres,683,390,1073,15-02-2021,08-07-2021,22 litres,54 litres
+Au668,Tulsi Juice,Health Supplement,Patanjali,44,6 litres,915,101,1016,11-04-2021,31-08-2021,35 litres,56 litres
+Au669,Tulsi Juice,Health Supplement,Patanjali,33,10 litres,621,382,1003,19-01-2021,24-06-2021,21 litres,58 litres
+Au670,Tulsi Juice,Health Supplement,Patanjali,41,10 litres,937,292,1229,15-05-2021,01-10-2021,33 litres,51 litres
+Au671,Aloe Vera Juice,Health Supplement,Patanjali,46,6 litres,751,299,1050,13-01-2021,15-09-2021,29 litres,55 litres
+Au672,Mango Panna,Health Supplement,Patanjali,39,16 litres,947,198,1145,02-04-2021,22-08-2021,26 litres,60 litres
+Au673,Amla Juice,Health Supplement,Patanjali,15,17 litres,910,283,1193,07-04-2021,23-08-2021,21 litres,50 litres
+Au674,Aloe Vera Juice,Health Supplement,Patanjali,49,18 litres,658,341,999,08-04-2021,30-11-2021,34 litres,52 litres
+Au675,Mango Panna,Health Supplement,Patanjali,12,20 litres,520,119,639,28-01-2021,27-08-2021,36 litres,59 litres
+Au676,Amla Juice,Health Supplement,Patanjali,12,18 litres,811,366,1177,27-05-2021,20-11-2021,22 litres,54 litres
+Au677,Mango Panna,Health Supplement,Patanjali,30,13 litres,992,109,1101,19-03-2021,24-08-2021,36 litres,50 litres
+Au678,Tulsi Juice,Health Supplement,Patanjali,47,12 litres,896,157,1053,14-03-2021,12-08-2021,25 litres,52 litres
+Au679,Mango Panna,Health Supplement,Patanjali,15,8 litres,799,151,950,09-04-2021,22-11-2021,28 litres,56 litres
+Au680,Aloe Vera Juice,Health Supplement,Patanjali,14,19 litres,956,101,1057,26-03-2021,21-09-2021,30 litres,59 litres
+Au681,Aloe Vera Juice,Health Supplement,Patanjali,49,6 litres,798,381,1179,25-04-2021,04-07-2021,26 litres,58 litres
+Au682,Tulsi Juice,Health Supplement,Patanjali,20,20 litres,944,159,1103,12-03-2021,15-07-2021,32 litres,55 litres
+Au683,Mango Panna,Health Supplement,Patanjali,47,18 litres,604,341,945,07-04-2021,18-06-2021,28 litres,50 litres
+Au684,Gilloy Juice,Health Supplement,Patanjali,37,17 litres,923,255,1178,18-02-2021,04-09-2021,35 litres,50 litres
+Au685,Mango Panna,Health Supplement,Patanjali,39,6 litres,512,360,872,10-04-2021,20-06-2021,35 litres,50 litres
+Au686,Mango Panna,Health Supplement,Patanjali,47,13 litres,546,235,781,25-04-2021,13-08-2021,24 litres,52 litres
+Au687,Mango Panna,Health Supplement,Patanjali,32,8 litres,550,193,743,28-05-2021,13-06-2021,40 litres,52 litres
+Au688,Gilloy Juice,Health Supplement,Patanjali,32,6 litres,997,293,1290,06-05-2021,18-06-2021,29 litres,58 litres
+Au689,Amla Juice,Health Supplement,Patanjali,22,5 litres,929,263,1192,16-02-2021,15-10-2021,37 litres,52 litres
+Au690,Gilloy Juice,Health Supplement,Patanjali,10,18 litres,951,173,1124,08-04-2021,05-10-2021,38 litres,58 litres
+Au691,Amla Juice,Health Supplement,Patanjali,12,5 litres,571,155,726,02-01-2021,20-07-2021,35 litres,59 litres
+Au692,Amla Juice,Health Supplement,Patanjali,31,6 litres,994,383,1377,10-03-2021,25-10-2021,39 litres,51 litres
+Au693,Aloe Vera Juice,Health Supplement,Patanjali,46,13 litres,515,359,874,05-01-2021,25-11-2021,31 litres,52 litres
+Au694,Gilloy Juice,Health Supplement,Patanjali,43,16 litres,674,313,987,04-02-2021,23-09-2021,26 litres,51 litres
+Au695,Tulsi Juice,Health Supplement,Patanjali,42,9 litres,569,208,777,23-04-2021,02-08-2021,24 litres,51 litres
+Au696,Gilloy Juice,Health Supplement,Patanjali,27,7 litres,765,103,868,20-02-2021,28-07-2021,23 litres,60 litres
+Au697,Amla Juice,Health Supplement,Patanjali,13,9 litres,650,282,932,17-02-2021,30-09-2021,37 litres,52 litres
+Au698,Tulsi Juice,Health Supplement,Patanjali,33,16 litres,858,320,1178,02-04-2021,06-07-2021,21 litres,55 litres
+Au699,Gilloy Juice,Health Supplement,Patanjali,24,19 litres,663,167,830,08-03-2021,29-11-2021,31 litres,50 litres
+Au700,Mango Panna,Health Supplement,Patanjali,49,13 litres,869,112,981,06-05-2021,10-07-2021,31 litres,56 litres
+Au701,Gilloy Juice,Health Supplement,Patanjali,27,6 litres,549,248,797,08-01-2021,16-08-2021,25 litres,55 litres
+Au702,Tulsi Juice,Health Supplement,Patanjali,24,6 litres,669,175,844,09-03-2021,13-07-2021,28 litres,54 litres
+Au703,Mango Panna,Health Supplement,Patanjali,45,20 litres,979,380,1359,22-05-2021,04-08-2021,22 litres,60 litres
+Au704,Aloe Vera Juice,Health Supplement,Patanjali,12,20 litres,826,245,1071,06-01-2021,14-06-2021,21 litres,50 litres
+Au705,Gilloy Juice,Health Supplement,Patanjali,10,13 litres,605,293,898,05-01-2021,03-11-2021,25 litres,51 litres
+Au706,Gilloy Juice,Health Supplement,Patanjali,14,17 litres,798,193,991,13-05-2021,01-08-2021,36 litres,59 litres
+Au707,Amla Juice,Health Supplement,Patanjali,18,9 litres,550,182,732,28-03-2021,26-10-2021,23 litres,52 litres
+Au708,Amla Juice,Health Supplement,Patanjali,21,15 litres,681,255,936,06-05-2021,27-10-2021,20 litres,50 litres
+Au709,Tulsi Juice,Health Supplement,Patanjali,33,12 litres,724,282,1006,11-05-2021,28-06-2021,21 litres,52 litres
+Au710,Tulsi Juice,Health Supplement,Patanjali,50,15 litres,662,348,1010,13-02-2021,09-09-2021,34 litres,59 litres
+Au711,Tropicana,Beverage,Pepsi,41,16 litres,511,389,900,19-02-2021,14-08-2021,36 litres,52 litres
+Au712,Pepsi,Beverage,Pepsi,33,18 litres,882,197,1079,07-04-2021,03-10-2021,31 litres,50 litres
+Au713,Soda Stream,Beverage,Pepsi,20,18 litres,612,300,912,19-03-2021,11-10-2021,33 litres,51 litres
+Au714,Gatorade,Beverage,Pepsi,17,5 litres,933,138,1071,19-05-2021,13-08-2021,29 litres,59 litres
+Au715,Gatorade,Beverage,Pepsi,42,11 litres,586,331,917,22-01-2021,24-11-2021,30 litres,53 litres
+Au716,Tropicana,Beverage,Pepsi,19,7 litres,975,340,1315,21-03-2021,02-11-2021,36 litres,52 litres
+Au717,Tropicana,Beverage,Pepsi,40,19 litres,593,181,774,13-03-2021,12-07-2021,35 litres,59 litres
+Au718,Gatorade,Beverage,Pepsi,27,19 litres,631,179,810,05-01-2021,09-09-2021,26 litres,58 litres
+Au719,Pepsi,Beverage,Pepsi,49,19 litres,653,355,1008,22-04-2021,11-10-2021,31 litres,54 litres
+Au720,Gatorade,Beverage,Pepsi,22,17 litres,667,189,856,06-03-2021,30-08-2021,25 litres,51 litres
+Au721,Soda Stream,Beverage,Pepsi,40,19 litres,592,313,905,25-03-2021,30-07-2021,36 litres,53 litres
+Au722,Pepsi,Beverage,Pepsi,24,14 litres,856,210,1066,02-01-2021,28-09-2021,39 litres,60 litres
+Au723,Gatorade,Beverage,Pepsi,40,7 litres,690,192,882,24-01-2021,03-07-2021,27 litres,52 litres
+Au724,Gatorade,Beverage,Pepsi,15,12 litres,594,363,957,01-03-2021,04-09-2021,21 litres,58 litres
+Au725,Pepsi,Beverage,Pepsi,46,12 litres,612,189,801,27-05-2021,29-10-2021,31 litres,53 litres
+Au726,Pepsi,Beverage,Pepsi,40,7 litres,613,295,908,17-02-2021,24-11-2021,24 litres,54 litres
+Au727,Pepsi,Beverage,Pepsi,50,6 litres,525,391,916,14-02-2021,12-07-2021,24 litres,59 litres
+Au728,Pepsi,Beverage,Pepsi,45,17 litres,883,315,1198,01-01-2021,15-08-2021,34 litres,60 litres
+Au729,Soda Stream,Beverage,Pepsi,41,10 litres,773,332,1105,20-05-2021,04-06-2021,34 litres,53 litres
+Au730,Soda Stream,Beverage,Pepsi,49,13 litres,913,220,1133,01-02-2021,10-06-2021,36 litres,52 litres
+Au731,Pepsi,Beverage,Pepsi,37,5 litres,637,269,906,11-03-2021,25-08-2021,35 litres,60 litres
+Au732,Soda Stream,Beverage,Pepsi,16,11 litres,990,250,1240,15-01-2021,05-06-2021,28 litres,57 litres
+Au733,Tropicana,Beverage,Pepsi,37,15 litres,788,123,911,15-04-2021,09-06-2021,23 litres,59 litres
+Au734,Gatorade,Beverage,Pepsi,13,8 litres,815,170,985,11-02-2021,01-10-2021,40 litres,52 litres
+Au735,Gatorade,Beverage,Pepsi,26,14 litres,927,272,1199,15-01-2021,12-11-2021,34 litres,52 litres
+Au736,Gatorade,Beverage,Pepsi,22,12 litres,803,130,933,06-03-2021,09-07-2021,32 litres,58 litres
+Au737,Pepsi,Beverage,Pepsi,22,9 litres,799,378,1177,18-03-2021,23-07-2021,20 litres,53 litres
+Au738,Soda Stream,Beverage,Pepsi,15,18 litres,688,314,1002,25-04-2021,23-11-2021,31 litres,57 litres
+Au739,Soda Stream,Beverage,Pepsi,14,14 litres,932,133,1065,14-03-2021,30-08-2021,38 litres,53 litres
+Au740,Gatorade,Beverage,Pepsi,31,11 litres,840,267,1107,30-03-2021,18-11-2021,34 litres,50 litres
+Au741,Tropicana,Beverage,Pepsi,24,20 litres,931,163,1094,09-01-2021,12-10-2021,40 litres,54 litres
+Au742,Tropicana,Beverage,Pepsi,10,18 litres,771,350,1121,03-05-2021,07-08-2021,20 litres,57 litres
+Au743,Tropicana,Beverage,Pepsi,22,19 litres,633,158,791,30-05-2021,27-09-2021,22 litres,58 litres
+Au744,Tropicana,Beverage,Pepsi,30,17 litres,942,336,1278,03-03-2021,21-11-2021,29 litres,52 litres
+Au745,Gatorade,Beverage,Pepsi,48,11 litres,970,289,1259,20-01-2021,17-08-2021,37 litres,60 litres
+Au746,Soda Stream,Beverage,Pepsi,30,16 litres,616,383,999,31-01-2021,18-11-2021,37 litres,52 litres
+Au747,Gatorade,Beverage,Pepsi,46,20 litres,815,323,1138,20-01-2021,26-06-2021,35 litres,58 litres
+Au748,Gatorade,Beverage,Pepsi,31,11 litres,662,298,960,06-01-2021,22-09-2021,24 litres,54 litres
+Au749,Soda Stream,Beverage,Pepsi,50,15 litres,984,206,1190,20-04-2021,24-10-2021,28 litres,57 litres
+Au750,Tropicana,Beverage,Pepsi,15,7 litres,742,194,936,02-05-2021,26-06-2021,22 litres,43 litres
+Au751,Patanjali Dant Kanti,Health Supplement,Patanjali,28,17 kg,664,237,901,02-04-2021,14-09-2021,35 kg,51 kg
+Au752,Chawanprash,Health Supplement,Patanjali,14,6 kg,612,212,824,30-03-2021,18-09-2021,33 kg,40 kg
+Au753,Patanjali Dant Kanti,Health Supplement,Patanjali,27,14 kg,687,112,799,23-04-2021,28-09-2021,32 kg,48 kg
+Au754,Patanjali Dant Kanti,Health Supplement,Patanjali,45,8 kg,573,189,762,29-03-2021,25-09-2021,23 kg,40 kg
+Au755,Honey,Health Supplement,Patanjali,42,13 kg,782,400,1182,21-03-2021,22-08-2021,37 kg,46 kg
+Au756,Chawanprash,Health Supplement,Patanjali,26,14 kg,534,342,876,12-01-2021,11-08-2021,39 kg,49 kg
+Au757,Chawanprash,Health Supplement,Patanjali,45,14 kg,867,357,1224,27-02-2021,07-07-2021,36 kg,51 kg
+Au758,Patanjali Dant Kanti,Health Supplement,Patanjali,42,19 kg,794,121,915,07-05-2021,09-10-2021,28 kg,57 kg
+Au759,Honey,Health Supplement,Patanjali,27,12 kg,808,395,1203,29-04-2021,14-11-2021,24 kg,53 kg
+Au760,Chawanprash,Health Supplement,Patanjali,18,17 kg,842,368,1210,05-03-2021,24-10-2021,29 kg,51 kg
+Au761,Patanjali Dant Kanti,Health Supplement,Patanjali,21,14 kg,546,160,706,23-01-2021,01-11-2021,28 kg,42 kg
+Au762,Chawanprash,Health Supplement,Patanjali,12,16 kg,978,345,1323,18-04-2021,11-10-2021,34 kg,57 kg
+Au763,Honey,Health Supplement,Patanjali,22,7 kg,783,254,1037,24-04-2021,10-10-2021,31 kg,45 kg
+Au764,Patanjali Dant Kanti,Health Supplement,Patanjali,27,11 kg,950,288,1238,08-04-2021,03-07-2021,25 kg,60 kg
+Au765,Chawanprash,Health Supplement,Patanjali,22,6 kg,769,151,920,11-01-2021,19-08-2021,33 kg,59 kg
+Au766,Honey,Health Supplement,Patanjali,46,20 kg,731,224,955,02-04-2021,19-07-2021,20 kg,49 kg
+Au767,Patanjali Dant Kanti,Health Supplement,Patanjali,39,7 kg,985,167,1152,24-02-2021,14-06-2021,34 kg,49 kg
+Au768,Honey,Health Supplement,Patanjali,41,16 kg,569,380,949,06-04-2021,17-07-2021,40 kg,43 kg
+Au769,Chawanprash,Health Supplement,Patanjali,19,13 kg,633,112,745,09-04-2021,12-11-2021,27 kg,46 kg
+Au770,Chawanprash,Health Supplement,Patanjali,13,16 kg,787,137,924,29-05-2021,23-09-2021,26 kg,56 kg
+Au771,Patanjali Dant Kanti,Health Supplement,Patanjali,11,14 kg,797,104,901,18-05-2021,13-08-2021,32 kg,51 kg
+Au772,Patanjali Dant Kanti,Health Supplement,Patanjali,20,20 kg,860,109,969,23-03-2021,06-11-2021,33 kg,58 kg
+Au773,Honey,Health Supplement,Patanjali,47,12 kg,651,307,958,02-02-2021,30-09-2021,28 kg,53 kg
+Au774,Chawanprash,Health Supplement,Patanjali,36,19 kg,694,389,1083,22-02-2021,22-10-2021,39 kg,47 kg
+Au775,Honey,Health Supplement,Patanjali,47,15 kg,680,134,814,08-02-2021,21-11-2021,27 kg,46 kg
+Au776,Honey,Health Supplement,Patanjali,20,12 kg,703,235,938,18-03-2021,19-08-2021,28 kg,43 kg
+Au777,Honey,Health Supplement,Patanjali,31,6 kg,586,198,784,27-05-2021,30-08-2021,26 kg,45 kg
+Au778,Patanjali Dant Kanti,Health Supplement,Patanjali,32,13 kg,562,166,728,17-01-2021,28-07-2021,23 kg,40 kg
+Au779,Honey,Health Supplement,Patanjali,47,11 kg,720,267,987,15-02-2021,15-07-2021,28 kg,50 kg
+Au780,Chawanprash,Health Supplement,Patanjali,40,16 kg,859,221,1080,22-01-2021,28-10-2021,34 kg,42 kg
+Au781,Patanjali Dant Kanti,Health Supplement,Patanjali,24,14 kg,778,146,924,09-05-2021,12-09-2021,20 kg,58 kg
+Au782,Chawanprash,Health Supplement,Patanjali,19,5 kg,853,187,1040,15-02-2021,22-10-2021,35 kg,47 kg
+Au783,Honey,Health Supplement,Patanjali,26,12 kg,977,241,1218,13-04-2021,03-08-2021,40 kg,60 kg
+Au784,Chawanprash,Health Supplement,Patanjali,44,20 kg,917,383,1300,25-02-2021,25-08-2021,38 kg,53 kg
+Au785,Chawanprash,Health Supplement,Patanjali,17,13 kg,940,292,1232,18-04-2021,28-09-2021,38 kg,60 kg
+Au786,Honey,Health Supplement,Patanjali,20,9 kg,587,237,824,17-03-2021,28-07-2021,33 kg,41 kg
+Au787,Patanjali Dant Kanti,Health Supplement,Patanjali,10,5 kg,777,161,938,29-01-2021,06-09-2021,27 kg,50 kg
+Au788,Honey,Health Supplement,Patanjali,28,15 kg,911,233,1144,22-04-2021,27-09-2021,28 kg,59 kg
+Au789,Honey,Health Supplement,Patanjali,29,12 kg,901,248,1149,09-05-2021,24-11-2021,29 kg,54 kg
+Au790,Honey,Health Supplement,Patanjali,32,19 kg,596,143,739,08-02-2021,31-07-2021,29 kg,59 kg
+Au791,Chawanprash,Health Supplement,Patanjali,28,20 kg,558,308,866,12-03-2021,13-11-2021,38 kg,40 kg
+Au792,Patanjali Dant Kanti,Health Supplement,Patanjali,13,6 kg,647,243,890,01-03-2021,27-07-2021,25 kg,46 kg
+Au793,Chawanprash,Health Supplement,Patanjali,40,12 kg,566,334,900,27-03-2021,31-08-2021,26 kg,53 kg
+Au794,Chawanprash,Health Supplement,Patanjali,17,8 kg,674,111,785,02-05-2021,02-11-2021,21 kg,42 kg
+Au795,Honey,Health Supplement,Patanjali,16,16 kg,921,240,1161,22-03-2021,05-09-2021,33 kg,55 kg
+Au796,Patanjali Dant Kanti,Health Supplement,Patanjali,41,5 kg,801,299,1100,14-04-2021,12-11-2021,40 kg,43 kg
+Au797,Chawanprash,Health Supplement,Patanjali,11,10 kg,784,159,943,02-05-2021,30-10-2021,36 kg,46 kg
+Au798,Patanjali Dant Kanti,Health Supplement,Patanjali,19,16 kg,783,216,999,12-02-2021,17-09-2021,36 kg,40 kg
+Au799,Honey,Health Supplement,Patanjali,21,17 kg,506,138,644,28-05-2021,03-08-2021,38 kg,58 kg
+Au800,Tasty Nuts,Snacks,Haldiram,38,19 kg,953,143,1096,20-02-2021,22-11-2021,32 kg,46 kg
+Au801,Bhel Puri,Snacks,Haldiram,28,15 kg,716,284,1000,22-04-2021,27-08-2021,30 kg,44 kg
+Au802,Bhel Puri,Snacks,Haldiram,19,8 kg,538,162,700,05-02-2021,23-09-2021,35 kg,49 kg
+Au803,Tasty Nuts,Snacks,Haldiram,17,19 kg,673,117,790,21-02-2021,18-08-2021,37 kg,64 kg
+Au804,Aloo Bhujia,Snacks,Haldiram,16,12 kg,609,360,969,21-04-2021,08-09-2021,29 kg,59 kg
+Au805,Bhel Puri,Snacks,Haldiram,11,7 kg,651,183,834,27-02-2021,10-07-2021,29 kg,46 kg
+Au806,Bhujia Sev,Snacks,Haldiram,10,19 kg,896,107,1003,01-04-2021,18-08-2021,38 kg,62 kg
+Au807,Tasty Nuts,Snacks,Haldiram,14,13 kg,637,262,899,16-04-2021,25-09-2021,29 kg,61 kg
+Au808,Bhel Puri,Snacks,Haldiram,23,15 kg,528,335,863,18-04-2021,09-10-2021,27 kg,46 kg
+Au809,Aloo Bhujia,Snacks,Haldiram,40,5 kg,858,108,966,03-04-2021,20-11-2021,29 kg,63 kg
+Au810,Tasty Nuts,Snacks,Haldiram,22,14 kg,997,318,1315,28-05-2021,27-11-2021,39 kg,58 kg
+Au811,Bhujia Sev,Snacks,Haldiram,27,13 kg,755,287,1042,18-02-2021,29-07-2021,27 kg,60 kg
+Au812,Bhel Puri,Snacks,Haldiram,13,19 kg,759,134,893,24-02-2021,23-08-2021,33 kg,43 kg
+Au813,Aloo Bhujia,Snacks,Haldiram,23,18 kg,806,226,1032,02-03-2021,07-06-2021,31 kg,64 kg
+Au814,Aloo Bhujia,Snacks,Haldiram,47,6 kg,915,142,1057,11-04-2021,12-08-2021,36 kg,44 kg
+Au815,Bhujia Sev,Snacks,Haldiram,49,17 kg,952,383,1335,13-01-2021,31-07-2021,36 kg,55 kg
+Au816,Tasty Nuts,Snacks,Haldiram,33,16 kg,749,108,857,11-04-2021,09-11-2021,31 kg,47 kg
+Au817,Bhujia Sev,Snacks,Haldiram,25,19 kg,630,333,963,08-05-2021,21-08-2021,30 kg,42 kg
+Au818,Aloo Bhujia,Snacks,Haldiram,35,20 kg,950,238,1188,12-02-2021,15-06-2021,37 kg,54 kg
+Au819,Bhujia Sev,Snacks,Haldiram,37,8 kg,604,157,761,13-04-2021,04-07-2021,29 kg,43 kg
+Au820,Tasty Nuts,Snacks,Haldiram,10,15 kg,578,239,817,28-03-2021,03-11-2021,31 kg,44 kg
+Au821,Aloo Bhujia,Snacks,Haldiram,18,12 kg,556,390,946,15-05-2021,03-11-2021,31 kg,41 kg
+Au822,Tasty Nuts,Snacks,Haldiram,10,7 kg,530,101,631,09-04-2021,20-06-2021,30 kg,61 kg
+Au823,Aloo Bhujia,Snacks,Haldiram,31,14 kg,654,191,845,19-05-2021,28-07-2021,37 kg,44 kg
+Au824,Aloo Bhujia,Snacks,Haldiram,21,11 kg,879,371,1250,03-05-2021,10-06-2021,33 kg,50 kg
+Au825,Bhel Puri,Snacks,Haldiram,20,19 kg,904,253,1157,11-05-2021,01-10-2021,35 kg,60 kg
+Au826,Aloo Bhujia,Snacks,Haldiram,41,20 kg,985,301,1286,28-03-2021,10-09-2021,33 kg,55 kg
+Au827,Aloo Bhujia,Snacks,Haldiram,24,12 kg,855,270,1125,03-01-2021,30-10-2021,38 kg,49 kg
+Au828,Aloo Bhujia,Snacks,Haldiram,11,13 kg,939,360,1299,11-05-2021,18-11-2021,37 kg,56 kg
+Au829,Bhujia Sev,Snacks,Haldiram,46,15 kg,850,213,1063,06-03-2021,30-09-2021,32 kg,50 kg
+Au830,Aloo Bhujia,Snacks,Haldiram,37,13 kg,500,142,642,14-03-2021,14-10-2021,27 kg,59 kg
+Au831,Aloo Bhujia,Snacks,Haldiram,20,17 kg,607,365,972,12-02-2021,19-09-2021,32 kg,51 kg
+Au832,Tasty Nuts,Snacks,Haldiram,28,11 kg,564,110,674,05-05-2021,16-09-2021,35 kg,57 kg
+Au833,Aloo Bhujia,Snacks,Haldiram,33,16 kg,988,325,1313,31-03-2021,17-08-2021,34 kg,51 kg
+Au834,Tasty Nuts,Snacks,Haldiram,38,6 kg,998,205,1203,14-02-2021,26-08-2021,32 kg,52 kg
+Au835,Bhel Puri,Snacks,Haldiram,34,12 kg,744,169,913,29-04-2021,25-11-2021,32 kg,46 kg
+Au836,Bhujia Sev,Snacks,Haldiram,41,12 kg,644,325,969,30-04-2021,03-08-2021,32 kg,61 kg
+Au837,Tasty Nuts,Snacks,Haldiram,18,16 kg,879,210,1089,07-04-2021,21-10-2021,38 kg,41 kg
+Au838,Tasty Nuts,Snacks,Haldiram,12,19 kg,619,129,748,01-06-2021,24-11-2021,25 kg,48 kg
+Au839,Tasty Nuts,Snacks,Haldiram,13,8 kg,854,203,1057,19-04-2021,23-11-2021,29 kg,49 kg
+Au840,Bhujia Sev,Snacks,Haldiram,42,13 kg,923,393,1316,19-02-2021,17-11-2021,26 kg,52 kg
+Au841,Bhujia Sev,Snacks,Haldiram,34,11 kg,619,322,941,29-01-2021,18-09-2021,39 kg,46 kg
+Au842,Tasty Nuts,Snacks,Haldiram,42,18 kg,510,183,693,14-04-2021,06-11-2021,27 kg,57 kg
+Au843,Aloo Bhujia,Snacks,Haldiram,38,11 kg,844,170,1014,25-03-2021,10-09-2021,36 kg,51 kg
+Au844,Bhujia Sev,Snacks,Haldiram,42,15 kg,861,126,987,07-01-2021,23-10-2021,35 kg,59 kg
+Au845,Aloo Bhujia,Snacks,Haldiram,23,18 kg,651,215,866,17-02-2021,04-06-2021,31 kg,53 kg
+Au846,Aloo Bhujia,Snacks,Haldiram,27,12 kg,508,119,627,06-04-2021,28-08-2021,33 kg,52 kg
+Au847,Bhel Puri,Snacks,Haldiram,36,10 kg,805,286,1091,08-02-2021,01-12-2021,25 kg,45 kg
+Au848,Aloo Bhujia,Snacks,Haldiram,35,10 kg,823,109,932,08-05-2021,12-08-2021,34 kg,51 kg
+Au849,Bhujia Sev,Snacks,Haldiram,14,8 kg,528,275,803,13-01-2021,25-11-2021,37 kg,49 kg
+Au850,Bhujia Sev,Snacks,Haldiram,28,7 kg,841,144,985,09-02-2021,08-07-2021,28 kg,63 kg
+Au851,Aloo Bhujia,Snacks,Haldiram,37,15 kg,513,143,656,14-01-2021,16-09-2021,33 kg,57 kg
+Au852,Tasty Nuts,Snacks,Haldiram,29,16 kg,540,282,822,25-01-2021,04-07-2021,29 kg,48 kg
+Au853,Aloo Bhujia,Snacks,Haldiram,39,6 kg,500,389,889,09-01-2021,11-10-2021,34 kg,52 kg
+Au854,Bhujia Sev,Snacks,Haldiram,46,16 kg,869,238,1107,02-03-2021,22-11-2021,39 kg,49 kg
+Au855,Aloo Bhujia,Snacks,Haldiram,33,20 kg,667,298,965,06-05-2021,01-07-2021,29 kg,48 kg
+Au856,Bhel Puri,Snacks,Haldiram,20,6 kg,551,284,835,23-02-2021,01-09-2021,25 kg,64 kg
+Au857,Bhel Puri,Snacks,Haldiram,34,19 kg,837,304,1141,10-01-2021,04-09-2021,38 kg,47 kg
+Au858,Bhujia Sev,Snacks,Haldiram,26,18 kg,664,227,891,10-03-2021,03-08-2021,34 kg,46 kg
+Au859,Aloo Bhujia,Snacks,Haldiram,43,11 kg,927,331,1258,30-05-2021,07-11-2021,31 kg,65 kg
+Au860,Bhel Puri,Snacks,Haldiram,36,5 kg,819,349,1168,10-03-2021,30-11-2021,36 kg,47 kg
+Au861,Tasty Nuts,Snacks,Haldiram,33,18 kg,553,360,913,29-05-2021,06-08-2021,32 kg,52 kg
+Au862,Tasty Nuts,Snacks,Haldiram,49,12 kg,727,305,1032,14-05-2021,09-10-2021,26 kg,50 kg
+Au863,Tasty Nuts,Snacks,Haldiram,28,15 kg,563,206,769,20-04-2021,15-09-2021,31 kg,63 kg
+Au864,Bhel Puri,Snacks,Haldiram,47,12 kg,537,227,764,01-05-2021,27-08-2021,35 kg,44 kg
+Au865,Bhel Puri,Snacks,Haldiram,43,11 kg,876,178,1054,01-05-2021,13-10-2021,27 kg,51 kg
+Au866,Bhel Puri,Snacks,Haldiram,30,7 kg,720,312,1032,22-05-2021,20-11-2021,35 kg,54 kg
+Au867,Bhel Puri,Snacks,Haldiram,11,20 kg,694,102,796,31-03-2021,11-10-2021,27 kg,49 kg
+Au868,Bhujia Sev,Snacks,Haldiram,16,15 kg,943,326,1269,18-01-2021,11-09-2021,28 kg,61 kg
+Au869,Bhel Puri,Snacks,Haldiram,18,9 kg,816,114,930,21-05-2021,27-06-2021,39 kg,58 kg
+Au870,Bhel Puri,Snacks,Haldiram,50,15 kg,828,251,1079,28-02-2021,15-11-2021,39 kg,62 kg
+Au871,Uncle Chips,Snacks,Uncle Chips,34,5 kg,741,333,1074,02-02-2021,20-07-2021,26 kg,44 kg
+Au872,Uncle Chips,Snacks,Uncle Chips,21,7 kg,923,302,1225,23-03-2021,04-09-2021,29 kg,62 kg
+Au873,Uncle Chips(spicy),Snacks,Uncle Chips,16,14 kg,658,178,836,24-02-2021,12-06-2021,25 kg,45 kg
+Au874,Uncle Chips,Snacks,Uncle Chips,16,16 kg,727,352,1079,25-01-2021,05-10-2021,32 kg,51 kg
+Au875,Uncle Chips,Snacks,Uncle Chips,42,5 kg,741,134,875,19-04-2021,17-07-2021,35 kg,44 kg
+Au876,Uncle Chips(spicy),Snacks,Uncle Chips,19,8 kg,843,324,1167,22-04-2021,15-07-2021,28 kg,65 kg
+Au877,Uncle Chips,Snacks,Uncle Chips,29,19 kg,735,231,966,11-05-2021,07-10-2021,32 kg,55 kg
+Au878,Uncle Chips,Snacks,Uncle Chips,18,18 kg,798,361,1159,30-04-2021,28-11-2021,29 kg,65 kg
+Au879,Uncle Chips,Snacks,Uncle Chips,48,5 kg,885,268,1153,27-03-2021,18-10-2021,31 kg,45 kg
+Au880,Uncle Chips,Snacks,Uncle Chips,34,15 kg,582,111,693,14-03-2021,31-08-2021,38 kg,46 kg
+Au881,Uncle Chips(spicy),Snacks,Uncle Chips,19,6 kg,995,400,1395,31-03-2021,11-06-2021,27 kg,59 kg
+Au882,Uncle Chips(spicy),Snacks,Uncle Chips,24,9 kg,801,167,968,14-04-2021,13-07-2021,29 kg,47 kg
+Au883,Uncle Chips,Snacks,Uncle Chips,49,20 kg,890,160,1050,25-05-2021,22-08-2021,33 kg,63 kg
+Au884,Uncle Chips(spicy),Snacks,Uncle Chips,49,10 kg,762,339,1101,26-01-2021,20-10-2021,25 kg,48 kg
+Au885,Uncle Chips,Snacks,Uncle Chips,46,11 kg,956,119,1075,24-04-2021,05-06-2021,38 kg,49 kg
+Au886,Uncle Chips,Snacks,Uncle Chips,22,15 kg,811,354,1165,08-05-2021,02-09-2021,29 kg,60 kg
+Au887,Uncle Chips(spicy),Snacks,Uncle Chips,27,6 kg,756,387,1143,04-04-2021,09-08-2021,28 kg,42 kg
+Au888,Uncle Chips,Snacks,Uncle Chips,32,17 kg,527,241,768,10-04-2021,06-08-2021,37 kg,47 kg
+Au889,Uncle Chips(spicy),Snacks,Uncle Chips,16,7 kg,866,324,1190,21-02-2021,21-08-2021,34 kg,57 kg
+Au890,Uncle Chips(spicy),Snacks,Uncle Chips,20,16 kg,906,130,1036,15-03-2021,17-10-2021,36 kg,55 kg
+Au891,Uncle Chips,Snacks,Uncle Chips,24,16 kg,564,100,664,30-01-2021,27-07-2021,32 kg,53 kg
+Au892,Uncle Chips(spicy),Snacks,Uncle Chips,36,13 kg,946,345,1291,10-03-2021,31-08-2021,33 kg,65 kg
+Au893,Uncle Chips,Snacks,Uncle Chips,33,6 kg,928,226,1154,24-01-2021,14-08-2021,37 kg,45 kg
+Au894,Uncle Chips(spicy),Snacks,Uncle Chips,40,20 kg,503,338,841,03-04-2021,07-10-2021,29 kg,60 kg
+Au895,Uncle Chips(spicy),Snacks,Uncle Chips,26,10 kg,792,339,1131,06-05-2021,03-09-2021,27 kg,60 kg
+Au896,Uncle Chips,Snacks,Uncle Chips,18,11 kg,722,187,909,09-01-2021,15-11-2021,32 kg,56 kg
+Au897,Uncle Chips(spicy),Snacks,Uncle Chips,43,5 kg,716,255,971,09-01-2021,17-08-2021,28 kg,62 kg
+Au898,Uncle Chips(spicy),Snacks,Uncle Chips,29,17 kg,884,386,1270,10-03-2021,26-10-2021,25 kg,58 kg
+Au899,Uncle Chips(spicy),Snacks,Uncle Chips,40,17 kg,710,346,1056,30-04-2021,03-08-2021,25 kg,42 kg
+Au900,Uncle Chips,Snacks,Uncle Chips,31,20 kg,796,249,1045,25-01-2021,03-06-2021,26 kg,41 kg
+Au901,Uncle Chips(spicy),Snacks,Uncle Chips,41,13 kg,600,167,767,24-02-2021,27-10-2021,38 kg,59 kg
+Au902,Uncle Chips(spicy),Snacks,Uncle Chips,24,10 kg,699,178,877,28-03-2021,30-10-2021,25 kg,55 kg
+Au903,Uncle Chips,Snacks,Uncle Chips,18,7 kg,516,146,662,09-02-2021,25-07-2021,28 kg,45 kg
+Au904,Uncle Chips,Snacks,Uncle Chips,18,14 kg,978,246,1224,31-03-2021,10-10-2021,27 kg,40 kg
+Au905,Uncle Chips,Snacks,Uncle Chips,20,18 kg,725,145,870,10-03-2021,20-10-2021,28 kg,63 kg
+Au906,Uncle Chips(spicy),Snacks,Uncle Chips,24,9 kg,806,375,1181,18-04-2021,14-09-2021,33 kg,60 kg
+Au907,Uncle Chips,Snacks,Uncle Chips,41,12 kg,993,387,1380,23-05-2021,23-07-2021,39 kg,55 kg
+Au908,Uncle Chips(spicy),Snacks,Uncle Chips,50,8 kg,694,205,899,29-01-2021,20-08-2021,28 kg,48 kg
+Au909,Uncle Chips,Snacks,Uncle Chips,23,17 kg,891,252,1143,27-05-2021,20-09-2021,35 kg,45 kg
+Au910,Uncle Chips(spicy),Snacks,Uncle Chips,38,13 kg,500,264,764,13-05-2021,02-11-2021,32 kg,52 kg
+Au911,Uncle Chips,Snacks,Uncle Chips,25,17 kg,681,238,919,12-01-2021,22-06-2021,25 kg,59 kg
+Au912,Uncle Chips(spicy),Snacks,Uncle Chips,16,9 kg,933,257,1190,19-02-2021,25-10-2021,36 kg,65 kg
+Au913,Uncle Chips,Snacks,Uncle Chips,11,18 kg,610,289,899,04-04-2021,28-10-2021,40 kg,52 kg
+Au914,Uncle Chips(spicy),Snacks,Uncle Chips,30,18 kg,522,277,799,14-03-2021,19-10-2021,31 kg,49 kg
+Au915,Uncle Chips(spicy),Snacks,Uncle Chips,26,17 kg,941,172,1113,04-05-2021,26-08-2021,33 kg,54 kg
+Au916,Uncle Chips,Snacks,Uncle Chips,23,17 kg,532,341,873,28-04-2021,24-09-2021,34 kg,51 kg
+Au917,Uncle Chips,Snacks,Uncle Chips,10,9 kg,892,108,1000,04-05-2021,22-07-2021,27 kg,45 kg
+Au918,Uncle Chips(spicy),Snacks,Uncle Chips,46,5 kg,693,230,923,31-03-2021,16-09-2021,36 kg,48 kg
+Au919,Uncle Chips(spicy),Snacks,Uncle Chips,34,16 kg,718,398,1116,11-05-2021,31-08-2021,32 kg,48 kg
+Au920,Uncle Chips(spicy),Snacks,Uncle Chips,39,18 kg,946,162,1108,18-04-2021,13-07-2021,28 kg,40 kg
+Au921,Uncle Chips(spicy),Snacks,Uncle Chips,23,14 kg,998,187,1185,20-05-2021,05-06-2021,34 kg,43 kg
+Au922,Uncle Chips(spicy),Snacks,Uncle Chips,30,14 kg,941,331,1272,15-03-2021,28-09-2021,32 kg,56 kg
+Au923,Uncle Chips,Snacks,Uncle Chips,37,11 kg,542,199,741,26-03-2021,11-08-2021,34 kg,41 kg
+Au924,Uncle Chips(spicy),Snacks,Uncle Chips,37,15 kg,722,152,874,23-03-2021,15-09-2021,31 kg,40 kg
+Au925,Uncle Chips,Snacks,Uncle Chips,39,11 kg,985,395,1380,30-01-2021,12-07-2021,33 kg,64 kg
+Au926,Uncle Chips,Snacks,Uncle Chips,24,14 kg,794,354,1148,25-04-2021,03-09-2021,40 kg,52 kg
+Au927,Uncle Chips(spicy),Snacks,Uncle Chips,15,7 kg,855,362,1217,20-01-2021,01-10-2021,25 kg,52 kg
+Au928,Uncle Chips(spicy),Snacks,Uncle Chips,37,14 kg,923,383,1306,21-02-2021,15-06-2021,26 kg,65 kg
+Au929,Uncle Chips,Snacks,Uncle Chips,12,13 kg,708,127,835,01-01-2021,18-06-2021,40 kg,47 kg
+Au930,Uncle Chips,Snacks,Uncle Chips,25,10 kg,664,393,1057,05-03-2021,14-08-2021,27 kg,42 kg
+Au931,Uncle Chips(spicy),Snacks,Uncle Chips,38,10 kg,794,236,1030,11-03-2021,13-07-2021,37 kg,61 kg
+Au932,Uncle Chips(spicy),Snacks,Uncle Chips,11,18 kg,911,310,1221,10-04-2021,01-07-2021,33 kg,45 kg
+Au933,Uncle Chips,Snacks,Uncle Chips,28,19 kg,522,247,769,06-03-2021,31-10-2021,28 kg,53 kg
+Au934,Uncle Chips,Snacks,Uncle Chips,30,5 kg,768,180,948,08-02-2021,02-06-2021,37 kg,53 kg
+Au935,Uncle Chips(spicy),Snacks,Uncle Chips,20,10 kg,845,206,1051,20-02-2021,13-07-2021,27 kg,61 kg
+Au936,Uncle Chips,Snacks,Uncle Chips,17,20 kg,948,382,1330,25-02-2021,12-06-2021,36 kg,59 kg
+Au937,Uncle Chips,Snacks,Uncle Chips,20,9 kg,961,113,1074,21-05-2021,27-11-2021,39 kg,49 kg
+Au938,Uncle Chips,Snacks,Uncle Chips,38,13 kg,817,281,1098,20-02-2021,16-10-2021,25 kg,46 kg
+Au939,Uncle Chips,Snacks,Uncle Chips,29,11 kg,572,299,871,08-04-2021,02-11-2021,32 kg,60 kg
+Au940,Uncle Chips,Snacks,Uncle Chips,37,17 kg,648,261,909,12-01-2021,19-08-2021,27 kg,52 kg
+Au941,Uncle Chips,Snacks,Uncle Chips,15,10 kg,675,279,954,21-05-2021,02-07-2021,31 kg,58 kg
+Au942,Uncle Chips,Snacks,Uncle Chips,41,19 kg,610,318,928,11-03-2021,01-08-2021,38 kg,58 kg
+Au943,Uncle Chips,Snacks,Uncle Chips,15,13 kg,605,125,730,23-02-2021,08-07-2021,39 kg,62 kg
+Au944,Uncle Chips(spicy),Snacks,Uncle Chips,36,16 kg,516,238,754,10-02-2021,08-09-2021,36 kg,51 kg
+Au945,Uncle Chips(spicy),Snacks,Uncle Chips,23,15 kg,658,203,861,12-02-2021,02-06-2021,25 kg,52 kg
+Au946,Uncle Chips(spicy),Snacks,Uncle Chips,29,12 kg,527,236,763,02-04-2021,28-10-2021,39 kg,52 kg
+Au947,Uncle Chips,Snacks,Uncle Chips,36,20 kg,545,289,834,24-03-2021,30-08-2021,27 kg,50 kg
+Au948,Uncle Chips,Snacks,Uncle Chips,44,16 kg,518,307,825,27-05-2021,07-09-2021,39 kg,58 kg
+Au949,Uncle Chips,Snacks,Uncle Chips,38,8 kg,877,350,1227,22-01-2021,19-10-2021,30 kg,45 kg
+Au950,Uncle Chips,Snacks,Uncle Chips,14,20 kg,520,149,669,19-03-2021,31-10-2021,31 kg,51 kg
+Au951,Uncle Chips(spicy),Snacks,Uncle Chips,20,7 kg,761,225,986,12-01-2021,07-06-2021,34 kg,41 kg
+Au952,Uncle Chips(spicy),Snacks,Uncle Chips,24,8 kg,689,211,900,12-05-2021,24-07-2021,35 kg,61 kg
+Au953,Uncle Chips,Snacks,Uncle Chips,22,8 kg,735,206,941,27-04-2021,06-06-2021,31 kg,45 kg
+Au954,Uncle Chips(spicy),Snacks,Uncle Chips,22,16 kg,870,215,1085,08-01-2021,23-11-2021,29 kg,55 kg
+Au955,Uncle Chips(spicy),Snacks,Uncle Chips,21,13 kg,731,141,872,05-05-2021,15-11-2021,38 kg,52 kg
+Au956,Uncle Chips,Snacks,Uncle Chips,36,11 kg,791,224,1015,23-05-2021,13-08-2021,36 kg,43 kg
+Au957,Uncle Chips(spicy),Snacks,Uncle Chips,24,11 kg,523,264,787,17-04-2021,01-06-2021,29 kg,54 kg
+Au958,Uncle Chips,Snacks,Uncle Chips,45,8 kg,702,390,1092,30-04-2021,30-10-2021,37 kg,46 kg
+Au959,Uncle Chips(spicy),Snacks,Uncle Chips,40,15 kg,955,136,1091,14-05-2021,05-10-2021,37 kg,59 kg
+Au960,Uncle Chips(spicy),Snacks,Uncle Chips,32,15 kg,704,161,865,13-04-2021,10-08-2021,29 kg,61 kg
+Au961,Uncle Chips,Snacks,Uncle Chips,23,8 kg,784,125,909,20-02-2021,01-07-2021,27 kg,59 kg
+Au962,Uncle Chips,Snacks,Uncle Chips,44,8 kg,594,224,818,19-05-2021,29-07-2021,28 kg,50 kg
+Au963,Uncle Chips(spicy),Snacks,Uncle Chips,35,17 kg,829,341,1170,11-04-2021,24-10-2021,32 kg,46 kg
+Au964,Uncle Chips,Snacks,Uncle Chips,31,5 kg,500,115,615,14-05-2021,22-06-2021,25 kg,63 kg
+Au965,Uncle Chips(spicy),Snacks,Uncle Chips,46,14 kg,931,338,1269,19-01-2021,08-06-2021,39 kg,56 kg
+Au966,Uncle Chips,Snacks,Uncle Chips,40,15 kg,915,159,1074,27-01-2021,23-06-2021,31 kg,53 kg
+Au967,Uncle Chips,Snacks,Uncle Chips,10,9 kg,901,193,1094,22-01-2021,08-06-2021,26 kg,64 kg
+Au968,Walker,Snacks,Pepsi,38,17 kg,881,257,1138,30-04-2021,14-08-2021,39 kg,63 kg
+Au969,Walker,Snacks,Pepsi,22,6 kg,584,262,846,11-03-2021,20-11-2021,37 kg,44 kg
+Au970,Gamesa,Snacks,Pepsi,13,11 kg,822,290,1112,31-01-2021,11-09-2021,31 kg,46 kg
+Au971,Walker,Snacks,Pepsi,19,9 kg,508,232,740,28-02-2021,24-08-2021,26 kg,62 kg
+Au972,Gamesa,Snacks,Pepsi,34,8 kg,813,349,1162,04-05-2021,01-10-2021,39 kg,47 kg
+Au973,Walker,Snacks,Pepsi,49,19 kg,776,188,964,24-02-2021,21-10-2021,37 kg,44 kg
+Au974,Gamesa,Snacks,Pepsi,44,18 kg,667,327,994,01-04-2021,30-11-2021,38 kg,61 kg
+Au975,Gamesa,Snacks,Pepsi,50,17 kg,735,325,1060,16-05-2021,06-10-2021,33 kg,43 kg
+Au976,Gamesa,Snacks,Pepsi,43,15 kg,823,267,1090,10-02-2021,24-10-2021,25 kg,59 kg
+Au977,Walker,Snacks,Pepsi,43,8 kg,549,201,750,18-04-2021,02-10-2021,31 kg,46 kg
+Au978,Quaker Oats,Snacks,Pepsi,24,17 kg,972,321,1293,05-05-2021,11-07-2021,40 kg,46 kg
+Au979,Gamesa,Snacks,Pepsi,49,14 kg,657,173,830,05-03-2021,18-10-2021,34 kg,47 kg
+Au980,Walker,Snacks,Pepsi,26,20 kg,511,119,630,19-04-2021,12-11-2021,30 kg,45 kg
+Au981,Gamesa,Snacks,Pepsi,22,12 kg,801,362,1163,19-01-2021,08-10-2021,30 kg,48 kg
+Au982,Gamesa,Snacks,Pepsi,40,17 kg,981,233,1214,18-02-2021,23-11-2021,40 kg,52 kg
+Au983,Quaker Oats,Snacks,Pepsi,17,15 kg,939,372,1311,14-05-2021,03-11-2021,28 kg,45 kg
+Au984,Quaker Oats,Snacks,Pepsi,40,17 kg,738,128,866,26-03-2021,11-07-2021,32 kg,63 kg
+Au985,Walker,Snacks,Pepsi,29,11 kg,634,278,912,15-02-2021,02-09-2021,25 kg,56 kg
+Au986,Quaker Oats,Snacks,Pepsi,41,5 kg,619,381,1000,28-04-2021,01-12-2021,37 kg,54 kg
+Au987,Walker,Snacks,Pepsi,27,20 kg,954,293,1247,08-04-2021,28-08-2021,36 kg,52 kg
+Au988,Quaker Oats,Snacks,Pepsi,44,7 kg,856,316,1172,23-02-2021,17-07-2021,38 kg,62 kg
+Au989,Quaker Oats,Snacks,Pepsi,22,17 kg,690,155,845,19-01-2021,16-08-2021,33 kg,48 kg
+Au990,Walker,Snacks,Pepsi,43,15 kg,741,311,1052,25-05-2021,05-09-2021,26 kg,41 kg
+Au991,Quaker Oats,Snacks,Pepsi,31,9 kg,660,153,813,14-03-2021,05-06-2021,40 kg,62 kg
+Au992,Gamesa,Snacks,Pepsi,21,6 kg,609,104,713,31-03-2021,21-06-2021,27 kg,61 kg
+Au993,Walker,Snacks,Pepsi,35,16 kg,798,334,1132,13-02-2021,09-09-2021,38 kg,42 kg
+Au994,Gamesa,Snacks,Pepsi,26,10 kg,619,268,887,05-03-2021,18-09-2021,39 kg,58 kg
+Au995,Walker,Snacks,Pepsi,10,18 kg,760,293,1053,11-04-2021,09-08-2021,27 kg,40 kg
+Au996,Quaker Oats,Snacks,Pepsi,40,12 kg,656,390,1046,08-05-2021,17-06-2021,29 kg,40 kg
+Au997,Walker,Snacks,Pepsi,50,6 kg,983,209,1192,22-01-2021,31-10-2021,28 kg,58 kg
+Au998,Gamesa,Snacks,Pepsi,46,6 kg,564,178,742,19-01-2021,08-07-2021,38 kg,64 kg
+Au999,Quaker Oats,Snacks,Pepsi,28,5 kg,785,139,924,06-05-2021,30-11-2021,26 kg,45 kg
+Au1000,Gamesa,Snacks,Pepsi,31,11 kg,616,319,935,14-03-2021,24-11-2021,40 kg,46 kg
+Au1001,Walker,Snacks,Pepsi,43,12 kg,940,238,1178,18-04-2021,24-10-2021,37 kg,63 kg
+Au1002,Quaker Oats,Snacks,Pepsi,26,7 kg,823,362,1185,28-01-2021,25-09-2021,36 kg,65 kg
+Au1003,Walker,Snacks,Pepsi,26,17 kg,980,140,1120,19-03-2021,30-06-2021,32 kg,46 kg
+Au1004,Gamesa,Snacks,Pepsi,22,14 kg,847,279,1126,06-03-2021,03-11-2021,40 kg,58 kg
+Au1005,Quaker Oats,Snacks,Pepsi,10,19 kg,791,222,1013,02-01-2021,27-06-2021,38 kg,57 kg
+Au1006,Gamesa,Snacks,Pepsi,50,5 kg,855,357,1212,21-03-2021,31-10-2021,25 kg,46 kg
+Au1007,Gamesa,Snacks,Pepsi,25,17 kg,651,348,999,12-05-2021,08-06-2021,26 kg,58 kg
+Au1008,Gamesa,Snacks,Pepsi,47,15 kg,536,369,905,24-05-2021,15-11-2021,40 kg,54 kg
+Au1009,Gamesa,Snacks,Pepsi,40,5 kg,533,173,706,04-05-2021,19-09-2021,31 kg,52 kg
+Au1010,Gamesa,Snacks,Pepsi,12,5 kg,932,109,1041,03-04-2021,01-06-2021,25 kg,46 kg
+Au1011,Quaker Oats,Snacks,Pepsi,37,16 kg,699,122,821,02-02-2021,04-10-2021,30 kg,53 kg
+Au1012,Gamesa,Snacks,Pepsi,27,8 kg,901,338,1239,09-03-2021,19-10-2021,30 kg,40 kg
+Au1013,Gamesa,Snacks,Pepsi,18,9 kg,716,264,980,16-01-2021,19-06-2021,30 kg,43 kg
+Au1014,Quaker Oats,Snacks,Pepsi,50,9 kg,711,327,1038,06-01-2021,12-10-2021,34 kg,58 kg
+Au1015,Quaker Oats,Snacks,Pepsi,26,15 kg,968,234,1202,14-01-2021,14-09-2021,38 kg,64 kg
+Au1016,Walker,Snacks,Pepsi,30,16 kg,885,325,1210,23-01-2021,04-11-2021,39 kg,56 kg
+Au1017,Gamesa,Snacks,Pepsi,21,5 kg,807,371,1178,18-03-2021,26-08-2021,25 kg,62 kg
+Au1018,Gamesa,Snacks,Pepsi,10,7 kg,833,328,1161,21-05-2021,09-06-2021,30 kg,54 kg
+Au1019,Quaker Oats,Snacks,Pepsi,33,18 kg,720,374,1094,19-04-2021,01-12-2021,26 kg,54 kg
+Au1020,Walker,Snacks,Pepsi,17,16 kg,635,148,783,06-04-2021,21-10-2021,31 kg,61 kg
+Au1021,Gamesa,Snacks,Pepsi,20,15 kg,585,181,766,18-02-2021,19-10-2021,26 kg,42 kg
+Au1022,Gamesa,Snacks,Pepsi,11,16 kg,979,214,1193,24-05-2021,21-06-2021,37 kg,47 kg
+Au1023,Gamesa,Snacks,Pepsi,49,8 kg,895,317,1212,28-01-2021,13-08-2021,25 kg,41 kg
+Au1024,Gamesa,Snacks,Pepsi,41,19 kg,585,217,802,28-02-2021,26-11-2021,29 kg,63 kg
+Au1025,Walker,Snacks,Pepsi,34,19 kg,650,396,1046,25-01-2021,01-08-2021,25 kg,62 kg
+Au1026,Walker,Snacks,Pepsi,43,12 kg,919,391,1310,17-02-2021,27-10-2021,37 kg,63 kg
+Au1027,Quaker Oats,Snacks,Pepsi,41,11 kg,909,350,1259,24-04-2021,26-11-2021,40 kg,45 kg
+Au1028,Walker,Snacks,Pepsi,45,16 kg,631,210,841,21-03-2021,17-07-2021,35 kg,61 kg
+Au1029,Gamesa,Snacks,Pepsi,36,10 kg,676,263,939,26-05-2021,10-10-2021,36 kg,47 kg
+Au1030,Quaker Oats,Snacks,Pepsi,21,19 kg,983,236,1219,20-04-2021,09-10-2021,39 kg,57 kg
+Au1031,Quaker Oats,Snacks,Pepsi,34,16 kg,889,319,1208,18-04-2021,27-10-2021,40 kg,44 kg
+Au1032,Gamesa,Snacks,Pepsi,14,10 kg,993,197,1190,25-04-2021,18-08-2021,38 kg,45 kg
+Au1033,Walker,Snacks,Pepsi,48,7 kg,579,319,898,19-01-2021,28-10-2021,39 kg,46 kg
+Au1034,Gamesa,Snacks,Pepsi,19,10 kg,831,248,1079,12-05-2021,15-06-2021,25 kg,41 kg
+Au1035,Gamesa,Snacks,Pepsi,11,12 kg,686,269,955,10-02-2021,30-11-2021,29 kg,61 kg
+Au1036,Quaker Oats,Snacks,Pepsi,46,20 kg,647,249,896,23-05-2021,31-07-2021,25 kg,59 kg
+Au1037,Walker,Snacks,Pepsi,41,16 kg,530,236,766,02-05-2021,15-08-2021,36 kg,48 kg
+Au1038,Walker,Snacks,Pepsi,20,13 kg,813,108,921,05-02-2021,11-08-2021,40 kg,40 kg
+Au1039,Gamesa,Snacks,Pepsi,31,12 kg,581,186,767,28-02-2021,01-12-2021,38 kg,42 kg
+Au1040,Quaker Oats,Snacks,Pepsi,42,20 kg,844,377,1221,04-04-2021,05-09-2021,34 kg,41 kg
+Au1041,Gamesa,Snacks,Pepsi,34,13 kg,772,225,997,16-05-2021,01-10-2021,29 kg,57 kg
+Au1042,Quaker Oats,Snacks,Pepsi,28,17 kg,833,291,1124,03-02-2021,07-06-2021,35 kg,59 kg
+Au1043,Gamesa,Snacks,Pepsi,27,17 kg,536,153,689,01-05-2021,30-07-2021,30 kg,52 kg
+Au1044,Mother's Horlicks,Health Supplement,HUL,46,12 kg,658,107,765,13-02-2021,19-10-2021,35 kg,53 kg
+Au1045,Mother's Horlicks,Health Supplement,HUL,12,12 kg,746,220,966,01-03-2021,01-10-2021,32 kg,56 kg
+Au1046,Women's Horlicks,Health Supplement,HUL,38,16 kg,610,143,753,12-03-2021,05-09-2021,33 kg,54 kg
+Au1047,Women's Horlicks,Health Supplement,HUL,23,13 kg,647,211,858,18-05-2021,30-08-2021,36 kg,62 kg
+Au1048,Lite Horlicks,Health Supplement,HUL,46,12 kg,516,156,672,27-01-2021,06-10-2021,34 kg,50 kg
+Au1049,Women's Horlicks,Health Supplement,HUL,48,14 kg,863,127,990,19-05-2021,08-06-2021,33 kg,51 kg
+Au1050,Mother's Horlicks,Health Supplement,HUL,48,12 kg,753,177,930,04-03-2021,05-07-2021,38 kg,56 kg
+Au1051,Mother's Horlicks,Health Supplement,HUL,16,12 kg,998,339,1337,14-03-2021,13-10-2021,32 kg,53 kg
+Au1052,Horlicks,Health Supplement,HUL,22,11 kg,729,264,993,02-03-2021,20-07-2021,36 kg,62 kg
+Au1053,Lite Horlicks,Health Supplement,HUL,36,16 kg,745,331,1076,12-05-2021,19-09-2021,33 kg,55 kg
+Au1054,Mother's Horlicks,Health Supplement,HUL,32,18 kg,696,123,819,03-05-2021,16-08-2021,32 kg,51 kg
+Au1055,Mother's Horlicks,Health Supplement,HUL,45,15 kg,778,290,1068,06-05-2021,08-06-2021,34 kg,63 kg
+Au1056,Horlicks,Health Supplement,HUL,36,10 kg,933,109,1042,26-03-2021,06-09-2021,33 kg,58 kg
+Au1057,Mother's Horlicks,Health Supplement,HUL,47,13 kg,639,107,746,26-04-2021,31-10-2021,33 kg,52 kg
+Au1058,Lite Horlicks,Health Supplement,HUL,25,13 kg,652,246,898,29-03-2021,24-07-2021,32 kg,57 kg
+Au1059,Horlicks,Health Supplement,HUL,35,13 kg,522,135,657,06-05-2021,09-08-2021,36 kg,51 kg
+Au1060,Mother's Horlicks,Health Supplement,HUL,10,12 kg,990,259,1249,22-04-2021,08-08-2021,30 kg,55 kg
+Au1061,Women's Horlicks,Health Supplement,HUL,22,16 kg,812,294,1106,22-05-2021,27-11-2021,32 kg,50 kg
+Au1062,Horlicks,Health Supplement,HUL,20,17 kg,819,267,1086,05-03-2021,12-10-2021,30 kg,58 kg
+Au1063,Lite Horlicks,Health Supplement,HUL,31,18 kg,915,379,1294,06-02-2021,07-08-2021,34 kg,59 kg
+Au1064,Mother's Horlicks,Health Supplement,HUL,47,15 kg,810,275,1085,01-01-2021,09-08-2021,32 kg,60 kg
+Au1065,Lite Horlicks,Health Supplement,HUL,12,18 kg,860,252,1112,19-01-2021,25-08-2021,35 kg,55 kg
+Au1066,Mother's Horlicks,Health Supplement,HUL,35,19 kg,587,219,806,03-02-2021,24-07-2021,30 kg,62 kg
+Au1067,Women's Horlicks,Health Supplement,HUL,28,16 kg,557,249,806,17-02-2021,01-10-2021,37 kg,65 kg
+Au1068,Horlicks,Health Supplement,HUL,33,13 kg,803,183,986,09-04-2021,27-08-2021,35 kg,65 kg
+Au1069,Women's Horlicks,Health Supplement,HUL,27,13 kg,918,379,1297,10-01-2021,02-07-2021,33 kg,63 kg
+Au1070,Women's Horlicks,Health Supplement,HUL,40,11 kg,799,166,965,01-04-2021,06-06-2021,36 kg,60 kg
+Au1071,Lite Horlicks,Health Supplement,HUL,34,18 kg,880,210,1090,10-05-2021,13-06-2021,35 kg,55 kg
+Au1072,Horlicks,Health Supplement,HUL,12,17 kg,885,240,1125,03-04-2021,23-08-2021,37 kg,56 kg
+Au1073,Lite Horlicks,Health Supplement,HUL,33,20 kg,766,393,1159,05-05-2021,07-09-2021,33 kg,58 kg
+Au1074,Women's Horlicks,Health Supplement,HUL,43,17 kg,508,282,790,27-01-2021,04-08-2021,37 kg,62 kg
+Au1075,Lite Horlicks,Health Supplement,HUL,21,14 kg,614,192,806,28-03-2021,11-07-2021,36 kg,60 kg
+Au1076,Lite Horlicks,Health Supplement,HUL,38,11 kg,690,241,931,22-04-2021,26-10-2021,37 kg,56 kg
+Au1077,Mother's Horlicks,Health Supplement,HUL,40,20 kg,956,152,1108,20-01-2021,11-08-2021,36 kg,64 kg
+Au1078,Lite Horlicks,Health Supplement,HUL,10,18 kg,809,289,1098,30-01-2021,27-08-2021,31 kg,55 kg
+Au1079,Mother's Horlicks,Health Supplement,HUL,17,14 kg,880,366,1246,17-04-2021,24-06-2021,32 kg,59 kg
+Au1080,Women's Horlicks,Health Supplement,HUL,21,13 kg,755,273,1028,04-05-2021,03-06-2021,34 kg,51 kg
+Au1081,Mother's Horlicks,Health Supplement,HUL,15,20 kg,563,156,719,04-02-2021,16-06-2021,32 kg,51 kg
+Au1082,Horlicks,Health Supplement,HUL,24,16 kg,625,367,992,31-03-2021,08-10-2021,35 kg,50 kg
+Au1083,Horlicks,Health Supplement,HUL,41,20 kg,757,206,963,29-04-2021,25-09-2021,30 kg,59 kg
+Au1084,Women's Horlicks,Health Supplement,HUL,35,11 kg,714,256,970,22-05-2021,30-09-2021,33 kg,62 kg
+Au1085,Mother's Horlicks,Health Supplement,HUL,32,17 kg,652,178,830,14-01-2021,17-10-2021,36 kg,63 kg
+Au1086,Horlicks,Health Supplement,HUL,33,17 kg,572,173,745,04-02-2021,06-10-2021,35 kg,52 kg
+Au1087,Lite Horlicks,Health Supplement,HUL,40,12 kg,639,110,749,10-03-2021,26-10-2021,38 kg,54 kg
+Au1088,Women's Horlicks,Health Supplement,HUL,11,13 kg,652,319,971,20-03-2021,03-07-2021,38 kg,63 kg
+Au1089,Lite Horlicks,Health Supplement,HUL,42,12 kg,964,288,1252,15-04-2021,28-08-2021,38 kg,60 kg
+Au1090,Horlicks,Health Supplement,HUL,38,12 kg,835,374,1209,08-04-2021,11-08-2021,34 kg,65 kg
+Au1091,Women's Horlicks,Health Supplement,HUL,43,11 kg,869,286,1155,22-04-2021,03-09-2021,37 kg,56 kg
+Au1092,Women's Horlicks,Health Supplement,HUL,21,18 kg,617,128,745,20-01-2021,12-08-2021,35 kg,62 kg
+Au1093,Horlicks,Health Supplement,HUL,37,11 kg,993,152,1145,23-01-2021,12-10-2021,33 kg,57 kg
+Au1094,Mother's Horlicks,Health Supplement,HUL,32,20 kg,975,201,1176,15-03-2021,11-07-2021,38 kg,61 kg
+Au1095,Women's Horlicks,Health Supplement,HUL,28,19 kg,880,193,1073,12-05-2021,13-10-2021,39 kg,62 kg
+Au1096,Mother's Horlicks,Health Supplement,HUL,33,12 kg,821,292,1113,21-01-2021,15-06-2021,38 kg,57 kg
+Au1097,Women's Horlicks,Health Supplement,HUL,23,18 kg,768,280,1048,24-04-2021,18-06-2021,34 kg,64 kg
+Au1098,Mother's Horlicks,Health Supplement,HUL,13,14 kg,830,185,1015,04-04-2021,28-11-2021,33 kg,65 kg
+Au1099,Women's Horlicks,Health Supplement,HUL,35,11 kg,564,133,697,03-01-2021,13-08-2021,33 kg,57 kg
+Au1100,Women's Horlicks,Health Supplement,HUL,30,15 kg,556,108,664,14-03-2021,04-11-2021,38 kg,50 kg
